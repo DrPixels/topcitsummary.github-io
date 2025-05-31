@@ -1,4 +1,4 @@
-[Chapter I: Business Communication: Concepts, Elements, and Method](#summary-of-chapter-I-business-communication-concepts-elements-and-method)
+[Chapter I: Business Communication: Concepts, Elements, and Method](#summary-of-chapter-I-business-communication-concepts-elements-and-method)  
 [Chapter II: Business Problem Solving Techniques](#summary-of-chapter-II-business-problem-solving-techniques)
 
 # Summary of Chapter I: Business Communication: Concepts, Elements, and Methods
