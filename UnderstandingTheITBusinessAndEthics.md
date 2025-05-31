@@ -1,5 +1,5 @@
 [04 The IT Business Value Chain](#summary-of-04-the-it-business-value-chain)  
-[Chapter II: IT Business Strategy: Recent Trends and Major Issues](#chapter-II:-it-business-strategy:-recent-trends-and-major-issues)  
+[Chapter II - IT Business Strategy: Recent Trends and Major Issues](#chapter-II:-it-business-strategy:-recent-trends-and-major-issues)  
 
 # Summary of 04 The IT Business Value Chain
 
