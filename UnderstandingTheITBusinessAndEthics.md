@@ -3,7 +3,8 @@
 [Chapter III - Understanding IT Business Planning: Recent Trends and Key Issues](#summary-of-chapter-III-understanding-it-business-planning-recent-trends-and-key-issues)  
 [Chapter IV - Understanding the Adoption of IT Business](#summary-of-chapter-IV-understanding-the-adoption-of-it-business)  
 [Chapter V - Understanding the IT Business Process](#summary-of-chapter-V-understanding-the-it-business-process)  
-[Chapter VI - Understanding the IT Business and Enterprise Solutions](#summary-of-chapter-VI-understanding-the-it-business-and-enterprise-solutions)
+[Chapter VI - Understanding the IT Business and Enterprise Solutions](#summary-of-chapter-VI-understanding-the-it-business-and-enterprise-solutions)  
+[Chapter VII - Understanding the IT Business Performance Evaluation](#summary-chapter-VII-understanding-the-it-business-performance-evaluation)
 
 # Summary of 04 The IT Business Value Chain
 
@@ -1237,3 +1238,193 @@ By leveraging **ERP, SCM, CRM, and PLM**, enterprises streamline workflows and e
 
 Together, these systems form a robust foundation for modern IT-driven enterprises to thrive in dynamic markets.
 
+---
+# Summary of Chapter VII: Understanding the IT Business Performance Evaluation
+
+---
+
+## 01 Summary of Lessons Learned
+
+Evaluating **IT business performance** is essential for understanding how IT contributes to enterprise growth and strategic goals. Historically, evaluations focused on financial aspects like ROI and NPV, which are quantifiable but limited in scope.
+
+Modern approaches now include **non-financial indicators**, especially through frameworks like **Balanced Scorecard (BSC)** and its variant tailored for IT, **IT-BSC**. These provide a more comprehensive view by incorporating customer satisfaction, internal processes, and organizational learning.
+
+Key elements such as **KPIs (Key Performance Indicators)** and **MBO (Management by Objectives)** help align IT performance with business strategy, enabling continuous improvement and better decision-making.
+
+---
+
+## 02 Financial Performance Evaluation Technique
+
+### A) Overview of Financial Performance Evaluation
+
+Financial performance evaluation focuses on **quantitative metrics**—primarily using monetary values to assess investment returns and operational efficiency.
+
+These metrics:
+- Are easy to compare across different projects or time periods.
+- Help in assessing profitability, cost-effectiveness, and return on investment.
+- However, they often fail to capture **intangible benefits** like improved customer satisfaction or employee productivity.
+
+They are also criticized for being abstract accounting figures that may not clearly communicate value to all stakeholders.
+
+### B) Types of Financial Performance Evaluation Techniques
+
+| Technique | Description |
+|----------|-------------|
+| **ROI (Return on Investment)** | Measures net benefit relative to total cost; used to assess investment feasibility. |
+| **NPV (Net Present Value)** | Considers the present value of future cash flows; reflects true profitability over time. |
+| **IRR (Internal Rate of Return)** | Calculates the expected rate of return; helps compare projects of varying sizes. |
+| **PP (Payback Period)** | Indicates how quickly an investment will break even; doesn’t show total profit potential. |
+
+These techniques allow companies to evaluate investments based on both **specific time points** and **overall periods**, supporting informed capital allocation decisions.
+
+---
+
+## 03 Balanced Scorecard (BSC) Technique
+
+### A) Overview of the BSC Technique
+
+Developed by Kaplan and Norton in 1992, the **Balanced Scorecard (BSC)** is a strategic performance management tool that evaluates organizations from **four perspectives**: financial, customer, process, and learning & growth.
+
+It addresses the limitations of purely financial metrics by incorporating **non-financial KPIs**, offering a balanced view of performance and strategy execution.
+
+BSC supports:
+- Strategy concretization and communication
+- Internal alignment of objectives
+- Causal relationship mapping between performance drivers
+
+### B) Component Elements of BSC
+
+| Element | Description |
+|--------|-------------|
+| **Perspective** | Four key views: Finance, Customer, Process, Learning & Growth |
+| **CSF (Critical Success Factor)** | Key factors critical to achieving vision and strategy |
+| **Strategy Map** | Visual representation showing causal relationships among CSFs |
+| **KPI (Key Performance Indicator)** | Measurable indicators to track success against CSFs |
+
+Together, these components enable organizations to manage strategic goals and ensure their realization.
+
+### C) Four Perspectives of BSC
+
+| Perspective | Focus | Key Items | Example KPIs |
+|------------|-------|-----------|---------------|
+| **Finance** | Financial health and profitability | Revenue, net profits, cost reductions | Operating profit ratio, cash flow |
+| **Customer** | Customer satisfaction and loyalty | Customer satisfaction, service quality | On-time delivery rate, NPS |
+| **Process** | Operational efficiency and optimization | Cycle time, defect reduction | Product unit cost, process cycle time |
+| **Learning & Growth** | Employee development and innovation | Skill enhancement, knowledge sharing | Employee satisfaction, number of innovations |
+
+This multi-dimensional approach ensures enterprises maintain a balance between short-term results and long-term sustainability.
+
+---
+
+## 04 Balanced IT Performance Evaluation Technique
+
+### A) Overview of IT-BSC
+
+**IT-Balanced Scorecard (IT-BSC)** adapts the principles of BSC specifically for evaluating **IT performance and investments**.
+
+As IT becomes increasingly central to business operations, traditional financial metrics fall short in capturing intangible benefits like system reliability, service quality, and strategic alignment.
+
+IT-BSC provides a framework to:
+- Evaluate IT contributions to enterprise goals
+- Measure user satisfaction and service delivery effectiveness
+- Support long-term IT planning and capability development
+
+### B) Component Elements of IT-BSC
+
+| Perspective | Description | Linked BSC Perspective |
+|-------------|-------------|-------------------------|
+| **User Perspective** | Evaluates user satisfaction and service delivery effectiveness | Customer Perspective |
+| **Operational Process Perspective** | Assesses efficiency and reliability of IT operations | Internal Process Perspective |
+| **Contribution to Enterprise** | Measures impact on business outcomes | Financial Perspective |
+| **Future-Oriented Perspective** | Focuses on innovation, talent development, and strategic readiness | Learning & Growth Perspective |
+
+IT-BSC links directly to enterprise-level BSC, ensuring alignment and integration of IT performance with overall business goals.
+
+---
+
+## 05 Management of the Key Performance Indicators
+
+### A) Overview of KPI
+
+**KPIs (Key Performance Indicators)** are measurable values used to evaluate how effectively an organization is achieving its key objectives.
+
+In performance management, KPIs:
+- Reflect progress toward strategic goals
+- Enable data-driven decision-making
+- Facilitate continuous improvement
+
+Good KPIs should be:
+- Specific and measurable
+- Aligned with strategic goals
+- Actionable and timely
+
+### B) KPI Establishment Procedure
+
+1. **Strategic Alignment**: Link KPIs to enterprise vision and mission.
+2. **Stakeholder Interview**: Gather insights from key personnel.
+3. **Refinement and Classification**: Group and prioritize KPIs.
+4. **Comparison Matrix Development**: Establish benchmarks.
+5. **Target Setting**: Define realistic and achievable targets.
+6. **Verification and Validation**: Ensure accuracy and relevance.
+
+Outputs include:
+- KPI establishment plan
+- KPI portfolio and job-KPI matrix
+- Verified KPI list and implementation roadmap
+
+### C) Precautions to Take When Deriving KPI
+
+- **Top Management Support**: Essential for credibility and resource allocation.
+- **Avoid Legacy Influence**: KPIs should reflect current strategic needs, not outdated practices.
+- **Continuous Improvement**: KPIs must evolve with changing business environments.
+- **Balanced Approach**: Use a mix of leading and lagging indicators for comprehensive insight.
+
+Deriving effective KPIs is a gradual process requiring refinement and adaptation over time.
+
+---
+
+## 06 Goal Management System
+
+### A) Key Perspectives of MBO
+
+**Management by Objectives (MBO)** is a strategic approach where managers and employees define objectives together to improve organizational performance.
+
+Key characteristics:
+- Objectives are specific, measurable, and aligned with company strategy.
+- Encourages participation and accountability at all levels.
+- Emphasizes regular feedback and performance review.
+
+MBO bridges top-down strategy setting with bottom-up goal execution.
+
+### B) The Main Reasons Why Enterprises Are Adopting MBO
+
+- Enhances clarity and focus by defining clear goals.
+- Promotes alignment between individual and organizational objectives.
+- Encourages employee engagement and motivation.
+- Supports performance tracking and accountability.
+
+### C) Component Elements of MBO
+
+| Element | Description |
+|--------|-------------|
+| **Setting of Objectives** | Goals must be measurable, specific, and aligned with enterprise capabilities and vision. |
+| **Participation** | Employees actively involved in goal-setting for better commitment and ownership. |
+| **Feedback Mechanism** | Continuous evaluation and encouragement to ensure goal achievement and course correction. |
+
+MBO fosters a culture of transparency, collaboration, and continuous improvement, making it a powerful tool for strategic execution.
+
+---
+
+## Conclusion
+
+Effective **IT business performance evaluation** requires a combination of **financial and non-financial metrics**. While traditional methods like ROI and NPV remain important, modern tools like **BSC**, **IT-BSC**, and **KPIs** offer deeper insights into strategic alignment and operational efficiency.
+
+Frameworks like **MBO** ensure that performance goals are not only set clearly but also pursued collaboratively across the organization.
+
+By integrating these methodologies, enterprises can:
+- Align IT investments with business strategy
+- Monitor and improve performance continuously
+- Foster a culture of accountability and innovation
+- Respond proactively to changes in the business environment
+
+This holistic approach enables organizations to maximize the value derived from their IT initiatives while maintaining agility and competitiveness.
