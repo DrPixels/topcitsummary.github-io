@@ -1,6 +1,6 @@
 [04 The IT Business Value Chain](#summary-of-04-the-it-business-value-chain)  
 [Chapter II - IT Business Strategy: Recent Trends and Major Issues](#summary-of-chapter-II-it-business-strategy-recent-trends-and-major-issues)  
-[Chapter III - Understanding IT Business Planning: Recent Trends and Key Issues](#summary-of-chapter-III-understanding-it-business-planning-recent-trends-and-key-issues)
+[Chapter III - Understanding IT Business Planning: Recent Trends and Key Issues](#summary-of-chapter-III-understanding-it-business-planning-recent-trends-and-key-issues)  
 [Chapter IV - Understanding the Adoption of IT Business](#summary-of-chapter-IV-understanding-the-adoption-of-it-business)
 
 # Summary of 04 The IT Business Value Chain
