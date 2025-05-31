@@ -861,12 +861,49 @@ These methodologies ensure that Six Sigma initiatives are executed systematicall
 
 ### D) Understanding TRIZ
 
-**TRIZ (Theory of Inventive Problem Solving)** is a systematic approach to innovation and problem-solving.
+**Overview of TRIZ**
 
-- Provides structured methods for resolving contradictions and generating creative solutions.
-- Helps overcome traditional thinking barriers in process design.
+TRIZ (Theory of Inventive Problem Solving) is a **systematic methodology for innovation and problem-solving**, developed by Soviet inventor Genrich Altshuller in the 1940s. Based on the analysis of over 50,000 creative patents, Altshuller identified recurring patterns in inventions, leading to four key discoveries that form the foundation of TRIZ.
 
-TRIZ encourages innovation by applying proven principles from diverse fields.
+#### Four Important Discoveries of TRIZ:
+
+| Discovery | Explanation |
+|----------|-------------|
+| **Definition of Invention Problem** | Every invention problem contains at least one **contradiction** — improving one parameter causes deterioration in another. |
+| **Levels of Invention** | There are five levels of invention ranging from simple improvements to breakthrough innovations. |
+| **Types of Invention** | There are **40 inventive principles** used to resolve contradictions and generate innovative solutions across various domains. |
+| **Technology System Evolution** | Technology systems evolve according to **8 laws or patterns**, which can be predicted and utilized for future innovation. |
+
+---
+
+#### Types of TRIZ Contradictions
+
+TRIZ identifies two main types of contradictions that hinder innovation and require structured resolution methods:
+
+| Type of Contradiction | Description | Solution Approach |
+|-----------------------|-------------|--------------------|
+| **Physical Contradiction** | A situation where a single parameter must have **two opposite values at the same time**. For example, a product needs to be both strong and lightweight. | Solved using the **principle of separation**: <br> - Separation in time <br> - Separation in space <br> - Separation in scale <br> - Separation in condition |
+| **Technical Contradiction** | A situation where improving one system parameter causes **deterioration in another**. For example, increasing speed reduces accuracy. | Solved using: <br> - **40 Inventive Principles** <br> - **Contradiction Matrix** <br> - **76 Standard Solutions** <br> - **Laws of System Evolution** |
+
+---
+
+#### Utilization of TRIZ in Business Management
+
+TRIZ has gained recognition not only in engineering but also in **business management**, offering structured approaches to solve complex problems and drive innovation.
+
+##### Key Applications of TRIZ in Business:
+
+| Category | Application Example |
+|---------|---------------------|
+| **Management Support** | Resolving strategic contradictions and streamlining decision-making processes. |
+| **Innovation Support** | Developing new products, services, or business models through systematic ideation. |
+| **Thinking Management** | Enhancing critical thinking and fostering a culture of innovation within teams. |
+| **Fusion Management** | Integrating TRIZ with other methodologies like Six Sigma, Lean, and BPM for holistic process improvement. |
+
+By applying TRIZ principles, businesses can:
+- Identify and resolve internal conflicts
+- Predict future trends using evolution patterns
+- Generate breakthrough ideas without relying solely on trial and error
 
 ### E) Understanding SERVQUAL
 
