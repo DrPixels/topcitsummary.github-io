@@ -1,6 +1,7 @@
 [04 The IT Business Value Chain](#summary-of-04-the-it-business-value-chain)  
 [Chapter II - IT Business Strategy: Recent Trends and Major Issues](#summary-of-chapter-II-it-business-strategy-recent-trends-and-major-issues)  
 [Chapter III - Understanding IT Business Planning: Recent Trends and Key Issues](#summary-of-chapter-III-understanding-it-business-planning-recent-trends-and-key-issues)
+[Chapter IV - Understanding the Adoption of IT Business](#summary-of-chapter-IV-understanding-the-adoption-of-it-business)
 
 # Summary of 04 The IT Business Value Chain
 
@@ -406,3 +407,177 @@ Effective IT business planning requires:
 - **Information Strategic Planning (ISP)** to develop detailed system-specific strategies.
 
 Together, these components ensure structured, strategic, and measurable IT development and operations, enabling organizations to adapt, innovate, and gain competitive advantage.
+
+---
+
+# Summary of Chapter IV: Understanding the Adoption of IT Business
+
+---
+
+## 01 Summary of Lessons Learned
+
+The adoption of an **IT business** must align with the company’s **IT strategy and plans**, such as **Enterprise Architecture (EA)** and **Information Strategic Planning (ISP)**. The method and process of adoption should be tailored to the **size of the organization** and **changes in the external environment**.
+
+Key approaches include:
+- Using **in-house development** for greater customization.
+- Purchasing **software packages** for standardized processes.
+- Leveraging **outsourcing services** for non-core operations.
+
+The **ISO/IEC 12207 standard** provides a framework for software lifecycle management, ensuring successful adoption through structured ordering and development processes.
+
+While **IT outsourcing** can improve competitiveness by leveraging expert resources, it also introduces risks like **vendor dependency** and **data security issues**, which require regulatory and contractual safeguards.
+
+---
+
+## 02 IT Business Adoption Process
+
+### A) IT Business Ordering Process
+
+This is the foundational procedure used when adopting an IT business or system. It outlines activities and tasks performed by both the **orderer** (the department requesting the system) and the **supplier** (internal IT team or external vendor).
+
+**Key Stages:**
+1. **Ordering Plan**: Define scope, requirements, and stakeholders.
+2. **RFP Preparation**: Develop Request for Proposal with technical and functional specifications.
+3. **Proposal Evaluation & Contract Signing**: Evaluate vendors, negotiate, and finalize contracts.
+4. **Project Execution & Monitoring**: Track progress and manage deliverables.
+5. **Handover & Completion**: Deliver final product and close the project.
+
+**Benefits:**
+- Enhances communication between orderer and supplier.
+- Increases success rate of IT deployments.
+- Provides visibility and predictability in the adoption process.
+
+**Key Outputs:**
+- Ordering plan
+- RFP document
+- Contract terms and conditions
+- Project execution plan
+- Final delivery and test reports
+
+---
+
+### B) SW Adoption Process – ISO/IEC 12207
+
+**ISO/IEC 12207** is an international standard that defines a systematic approach to the **software lifecycle**, including:
+- Acquisition
+- Supply
+- Development
+- Operation
+- Maintenance
+
+**Main Processes:**
+1. **Agreement Process**
+2. **Development Process**
+3. **Management Process**
+
+This standard ensures consistency and quality across different software adoption methods. When combined with frameworks like **SPICE** or **CMMI**, it supports not only *what* needs to be done but also *how* it should be executed.
+
+---
+
+### C) Tailoring Process
+
+Tailoring refers to **customizing the software adoption methodology** based on internal and external factors.
+
+**Key Considerations:**
+| Factor | Reason |
+|--------|--------|
+| Work Scope | Varies by industry (e.g., finance, telecom) |
+| Project Timetable | Influences methodology choice |
+| Regulatory Compliance | Must adhere to laws and standards |
+| Technology Selection | Frameworks and base technologies affect adoption |
+
+Tailoring helps optimize the adoption process, especially for **unit-level projects**, ensuring alignment with organizational goals and constraints.
+
+---
+
+## 03 IT Business Adoption Method
+
+There are two primary methods for adopting an IT business:
+
+### A) In-House Development
+- **Pros:** Customized to internal needs, builds internal expertise.
+- **Cons:** Higher cost, longer timelines, uncertain outcomes.
+
+### B) Package Purchase
+- **Pros:** Uses proven systems, faster deployment, lower cost.
+- **Cons:** May require process changes, potential data leakage risk.
+
+### Hybrid Approach
+Modern companies often combine both methods:
+- Use **in-house development** for strategic components.
+- Use **package products** for supporting functions.
+
+This hybrid model reduces costs and risks while maintaining flexibility and control over critical systems.
+
+---
+
+## 04 IT Business Outsourcing Service
+
+### A) Overview of IT Business Outsourcing
+
+Outsourcing involves delegating **non-core IT operations** to third-party experts to focus on core competencies and improve efficiency.
+
+**Why Outsource?**
+- Rapid response to changing environments.
+- Access to external expertise.
+- Cost savings and resource optimization.
+
+In IT business, **core areas** are kept in-house, while **non-core or weak areas** are outsourced.
+
+---
+
+### B) Adoption Process
+
+The outsourcing process follows several phases:
+
+1. **Preparation / Select Target**
+   - Identify core vs. non-core areas.
+   - Decide what to outsource.
+
+2. **Select Outsourcing Company**
+   - Evaluate vendors using criteria like experience, cost, SLA capability.
+
+3. **Contract Negotiation & Signing**
+   - Agree on service level agreements (SLAs), responsibilities, and performance indicators.
+
+4. **Transition & Implementation**
+   - Transfer knowledge, build systems, begin operations.
+
+5. **Operation & Management**
+   - Monitor performance, ensure SLA compliance.
+
+6. **Control Phase**
+   - Continuous improvement and contract renewal decisions.
+
+---
+
+### C) Forms of Outsourcing
+
+| Form | Description | Pros & Cons |
+|------|-------------|-------------|
+| **Total Outsourcing** | Entire IT function managed externally. | High coordination, may increase costs. |
+| **IT Subsidiary Company Outsourcing** | Internal subsidiary handles IT. | Strong internal integration; risk if unprofitable. |
+| **Co-Sourcing** | Mix of internal and external teams. | Balances control and expertise; requires coordination. |
+
+---
+
+### D) Considerations When Adopting Outsourcing
+
+| Category | Problems | Considerations |
+|----------|----------|----------------|
+| **Management** | Weak control, high dependency | Use standards like eSCM and ISO/IEC 20000 for oversight. |
+| **Security** | Risk of data leaks | Implement strong security protocols. |
+| **Service Quality** | Fluctuating service levels | Continuously monitor SLAs and service metrics. |
+| **Business Process Outsourcing (BPO)** | Complexities in full-process outsourcing | Adopt BPO carefully for large-scale operations. |
+
+---
+
+## Conclusion
+
+Successful **IT business adoption** requires:
+- Alignment with corporate strategy via EA and ISP.
+- Structured use of **ordering and software lifecycle processes** (e.g., ISO/IEC 12207).
+- Choosing the right **adoption method** (in-house, package, hybrid).
+- Strategic **outsourcing** for non-core functions with proper governance.
+
+By integrating these practices, organizations can enhance **efficiency**, **competitiveness**, and **adaptability** in dynamic business environments.
