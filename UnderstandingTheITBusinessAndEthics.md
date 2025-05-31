@@ -806,10 +806,19 @@ Proper management of process-generated data enhances transparency, supports comp
 
 ### A) Understanding BPR (Business Process Reengineering)
 
-**BPR** involves radical redesign of business processes to achieve significant improvements in performance metrics like cost, quality, service, and speed.
+**Concept of BPR**  
+Business Process Reengineering (BPR) is a technique for **radically redesigning business processes** to achieve significant improvements in performance indicators such as cost, quality, service, and speed. Introduced by Professor Michael Hammer in 1990, BPR aims to resolve inefficiencies in existing business processes through **process-centric thinking**, rather than focusing on jobs, workers, or organizational structures.
 
-- Focuses on eliminating inefficiencies and rethinking workflows from scratch.
-- Often leveraged during ERP implementations or major system upgrades.
+#### Four Key Attributes of BPR:
+
+| Attribute | Description |
+|----------|-------------|
+| **Basic** | BPR addresses the fundamental problems within an enterprise. It asks questions like: What is the purpose of the task? What are the current problems? What inefficient elements exist in operations? |
+| **Zero Base** | BPR involves designing new ways of performing tasks by completely abandoning outdated procedures and starting from scratch. |
+| **Dramatic Improvement** | BPR is used when **radical innovation** is needed. It focuses on achieving major improvements rather than incremental changes. |
+| **Process** | The main focus of BPR is on **business processes**, aiming to optimize the workflows that drive business value without being constrained by existing roles or structures. |
+
+These attributes make BPR a powerful tool for transforming organizations, especially when they face declining competitiveness due to outdated or inefficient internal processes.
 
 ### B) Understanding PI (Process Innovation)
 
