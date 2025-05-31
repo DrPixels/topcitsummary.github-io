@@ -9,7 +9,7 @@
 [Chapter IX - Latest IT Business Services](#summary-of-chapter-IX-latest-it-business-services)  
 [Chapter X - Professional Ethics of IT Business](#summary-of-chapter-x-professional-ethics-of-it-business)  
 [Chapter XI - Privacy](#summary-of-chapter-XI-privacy)  
-[Summary of Chapter XII: Copyright and Industrial Property Rights](#summary-of-chapter-XII-copyright-and-industrial-property-rights)
+[Chapter XII - Copyright and Industrial Property Rights](#summary-of-chapter-XII-copyright-and-industrial-property-rights)
 
 # Summary of 04 The IT Business Value Chain
 
