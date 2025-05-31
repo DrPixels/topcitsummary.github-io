@@ -7,6 +7,7 @@
 [Chapter VII - Understanding the IT Business Performance Evaluation](#summary-of-chapter-VII-understanding-the-it-business-performance-evaluation)  
 [Chapter VIII: IT Business Environmental Transformation and Response](#summary-of-chapter-VIII-it-business-environmental-transformation-and-response)  
 [Chapter IX - Latest IT Business Services](#summary-of-chapter-IX-latest-it-business-services)
+[Chapter X - Professional Ethics of IT Business](#summary-of-chapter-x-professional-ethics-of-it-business)
 
 # Summary of 04 The IT Business Value Chain
 
@@ -1759,3 +1760,148 @@ Organizations must:
 - Explore **AI-driven software services** and **hardware-enabled innovations** for competitive differentiation
 
 By embracing these trends, enterprises can unlock new revenue streams, improve customer engagement, and build resilient, future-ready operations.
+
+---
+# Summary of Chapter X: Professional Ethics of IT Business
+
+---
+
+## 01 Understanding the Concept of Professional Ethics
+
+### A) Concept of Professional Ethics
+
+**Definition of Professional Ethics**
+- Professional ethics refers to a **code of conduct** that individuals in a profession must follow while performing their job.
+- It governs behavior not only at work but also in broader professional interactions and societal contributions.
+
+**Components of Professional Ethics**
+Professional ethics is composed of:
+1. **Ethical norms**: Standards that define acceptable behavior in professional life.
+2. **Rules of common behavior**: Shared expectations among professionals.
+3. **Prohibitions against unethical behaviors**: Guidelines that prevent harmful or immoral actions.
+
+**Sub-elements of Professional Ethics**
+
+| Category | Description |
+|----------|-------------|
+| **Work Ethics** | Includes diligence, honesty, sincerity, service spirit, and responsibility. <br> - Diligence: Maintaining a consistent and hardworking attitude towards work. <br> - Honesty: Being truthful and trustworthy in all professional dealings. <br> - Sincerity: Commitment to genuine effort and integrity. <br> - Service Spirit: Willingness to contribute for the benefit of others. <br> - Responsibility: Accountability for one’s actions and decisions. |
+| **Community Ethics** | Encompasses compliance with rules, workplace etiquette, and social responsibilities. |
+
+**Importance of Professional Ethics**
+- Provides guidance in moral dilemmas.
+- Ensures duty and responsibility are upheld in fast-paced, high-stakes environments.
+- Contributes to individual professionalism, organizational reliability, and societal development.
+
+---
+
+### B) Professional Ethics of IT Business
+
+**Overview**
+- As IT technologies rapidly evolve and deeply integrate into daily life, the **ethical responsibilities of IT professionals have grown significantly**.
+- With increasing dependence on digital systems, issues like software misuse, data breaches, cybercrime, and privacy violations highlight the **critical need for strong professional ethics** in the IT business.
+
+**Key Ethical Responsibilities in IT**
+- **Public Safety and Technology Implementation**: Developers and engineers must ensure that technology does not harm users or society.
+- **Privacy Protection**: Safeguarding user data and ensuring secure handling of personal information.
+- **Social Impact Awareness**: Recognizing how IT can influence quality of life and taking responsibility for its consequences.
+
+**Challenges in IT Ethics**
+- No global standard exists for professional ethics across the entire IT industry.
+- However, many organizations and institutions have developed internal codes of conduct and ethical guidelines tailored to their specific fields.
+
+**Examples of Ethical Codes in IT**
+- **ACM (Association for Computing Machinery)** Code of Ethics
+- **IEEE-CS (Institute of Electrical and Electronics Engineers – Computer Society)** Software Engineering Code
+- **NSPE (National Society of Professional Engineers)** Code of Ethics for Engineers
+- **ISACA (Information Systems Audit and Control Association)** Code of Professional Ethics
+
+These codes help guide ethical decision-making and promote responsible use of technology.
+
+---
+
+## 02 Ethical Principles and Code of IT Business
+
+### A) Code of Ethics Related to ICT Technology
+
+#### 1. **ACM Code of Ethics and Professional Conduct**
+This code outlines ethical principles for computing professionals and includes:
+
+##### General Ethical Principles:
+1. **Contribute to society and human well-being** – Recognize stakeholders and prioritize public interest.
+2. **Avoid harm** – Take corrective action if damage occurs; report systemic risks.
+3. **Be honest and trustworthy**
+4. **Be fair and non-discriminatory**
+5. **Respect intellectual property** – Copyright, patents, open source licensing, etc.
+6. **Respect privacy**
+7. **Honor confidentiality**
+
+##### Professional Responsibilities:
+- Strive for high-quality processes and products.
+- Maintain professional competence and ethical practice.
+- Prepare for system failures, abuse, or manipulation.
+- Ensure public good remains central in all computing work.
+
+##### Leadership Principles:
+- Promote social responsibility within organizations.
+- Enhance working conditions and career development opportunities.
+- Use care when retiring or modifying critical systems.
+- Recognize societal integration of certain technologies (e.g., cloud services, social media).
+
+##### Compliance with the Code:
+- Uphold and promote the code.
+- Treat violations as incompatible with professional membership.
+
+#### 2. **NSPE Code of Ethics for Engineers**
+Applicable to IT engineering roles, it emphasizes:
+
+1. Prioritizing **public safety, health, and welfare**.
+2. Performing duties only within **areas of competence**.
+3. Issuing **truthful and objective public statements**.
+4. Acting as **faithful agents** for employers/clients.
+5. Avoiding **deceptive or unethical practices**.
+
+#### 3. **Software Engineering Code of Ethics (ACM/IEEE-CS Joint Task Force)**
+
+This code highlights eight key principles:
+1. **Public Interest**: Act consistently with societal well-being.
+2. **Client and Employer Interests**: Balance client needs with public interest.
+3. **Product Quality**: Ensure software meets high standards of quality and reliability.
+4. **Judgment Integrity**: Maintain independence in technical judgment.
+5. **Management Responsibility**: Practice ethical management of resources and personnel.
+6. **Collegial Relationships**: Support and respect colleagues.
+7. **Lifelong Learning**: Commit to continuous professional growth.
+8. **Promotion of Ethical Practices**: Advocate for ethical standards in all professional activities.
+
+#### 4. **ISACA Code of Professional Ethics**
+Focuses on ethics in **information systems auditing and control**, emphasizing:
+
+- **Integrity and Objectivity**: Make decisions without bias or conflict of interest.
+- **Material Honesty**: Base conclusions on accurate data; avoid plagiarism or falsification.
+- **Compliance with Laws**: Adhere strictly to legal and regulatory frameworks.
+- **Respect for Intellectual Property**: Acknowledge and protect copyrights and patents.
+- **Confidentiality**: Protect sensitive information from unauthorized disclosure.
+
+#### 5. **Programmer's Ethical Pledge (Pete Goodliffe's “Becoming a Better Programmer”)**
+- Emphasizes **doing no harm** through code.
+- Encourages team harmony, honesty, and project efficiency.
+- Asks programmers to reflect on questions like:
+  - Do I consider myself an ethical programmer?
+  - What distinguishes an ethical programmer from an ethical person?
+
+#### 6. **Need for Ethical Awareness in IT**
+- In fast-moving development environments, distinguishing right from wrong can be challenging.
+- A strong sense of professional ethics provides **moral guidance**, **accountability**, and **a framework for responsible innovation**.
+
+---
+
+## Conclusion
+
+The rapid evolution of IT has made **professional ethics more crucial than ever**. With growing reliance on digital systems, IT workers—especially developers, engineers, and auditors—must uphold high ethical standards to protect public safety, privacy, and trust.
+
+Organizations like **ACM**, **IEEE-CS**, **NSPE**, and **ISACA** provide detailed codes that emphasize:
+- Public responsibility
+- Data and privacy protection
+- Professional integrity
+- Lifelong learning and ethical leadership
+
+Ultimately, **ethical awareness and self-discipline** are essential for fostering a sustainable, safe, and equitable technological future.
