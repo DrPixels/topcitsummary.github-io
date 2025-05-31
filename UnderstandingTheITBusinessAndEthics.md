@@ -65,7 +65,7 @@ This evolution leads to structural changes:
 
 ---
 
-# Summary of "IT Business Strategy: Recent Trends and Major Issues"
+# Summary of Chapter II: IT Business Strategy: Recent Trends and Major Issues
 
 ---
 
