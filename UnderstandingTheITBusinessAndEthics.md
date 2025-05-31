@@ -722,6 +722,8 @@ Organizations must ensure that their workforce has the necessary skills and trai
 
 ### B) Business Process
 
+An enterprise is a formal organization whose objective is the pursuit of profit through the sale of goods or services. It can be viewed as a collection of interrelated business functions and activities, defined by various business rules, aimed at achieving organizational objectives.
+
 A **business model** serves as a strategic blueprint for organizing and implementing an enterprise's structure, processes, and systems to create value. Key components include:
 
 - **Customer Value Proposition**
