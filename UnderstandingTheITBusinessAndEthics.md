@@ -831,21 +831,33 @@ PI often complements ERP adoption by aligning business processes with system cap
 
 ### C) Understanding Six Sigma
 
-**Six Sigma** is a data-driven methodology aimed at reducing defects and variability in business processes.
+**Six Sigma** is a data-driven methodology aimed at reducing defects and variability in business processes to near-perfect quality. Originating from Motorola in 1987, it focuses on achieving less than 3.4 defects per million opportunities.
 
-- Uses the **DMAIC** framework: Define, Measure, Analyze, Improve, Control.
-- Focuses on achieving near-perfect quality through statistical analysis and process optimization.
+#### Key Characteristics of Six Sigma:
+- **Statistical measurement** is central to identifying inefficiencies.
+- It is an **enterprise-wide initiative**, not limited to specific departments.
+- Aims to enhance **customer satisfaction** by improving process outputs.
+- Promotes a culture of **continuous improvement** across the organization.
 
-Six Sigma is particularly useful in industries requiring high precision and consistency.
+#### Six Sigma Hierarchy:
 
-### D) Understanding TRIZ
+| Role              | Qualifications                                                                 | Key Responsibilities |
+|-------------------|----------------------------------------------------------------------------------|----------------------|
+| **Champion**       | Senior executive with leadership experience                                     | Provides vision, secures resources, oversees implementation |
+| **Master Black Belt** | Extensive practical experience and deep knowledge of Six Sigma methodologies    | Trains and mentors Black Belts and Green Belts; advises on project selection |
+| **Black Belt**     | Manager-level employees skilled in statistics and Six Sigma tools               | Leads complex Six Sigma projects; trains Green Belts |
+| **Green Belt**     | Employees with job-specific knowledge and basic training in Six Sigma techniques| Participates in projects; applies Six Sigma tools to localized improvements |
 
-**TRIZ (Theory of Inventive Problem Solving)** is a systematic approach to innovation and problem-solving.
+#### Six Sigma Implementation Methodologies:
 
-- Provides structured methods for resolving contradictions and generating creative solutions.
-- Helps overcome traditional thinking barriers in process design.
+There are two primary approaches based on the nature of the project:
 
-TRIZ encourages innovation by applying proven principles from diverse fields.
+| Program Type        | Methodology | Description |
+|---------------------|-------------|-------------|
+| **Design Program**   | **DMADV** (Define, Measure, Analyze, Design, Verify) | Used for designing new processes or products to meet customer expectations and prevent defects from the outset. |
+| **Manufacturing Program** | **DMAIC** (Define, Measure, Analyze, Improve, Control) | Applied to existing processes to reduce defects and prevent recurrence through structured improvement. |
+
+These methodologies ensure that Six Sigma initiatives are executed systematically, whether the goal is to create new, high-quality processes or refine existing ones.
 
 ### E) Understanding SERVQUAL
 
