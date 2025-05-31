@@ -1,4 +1,5 @@
 [Chapter I: Business Communication: Concepts, Elements, and Method](#summary-of-chapter-I-business-communication-concepts-elements-and-method)
+[Chapter II: Business Problem Solving Techniques](#summary-of-chapter-II-business-problem-solving-techniques)
 
 # Summary of Chapter I: Business Communication: Concepts, Elements, and Methods
 
@@ -156,4 +157,212 @@ Key takeaways:
 - **Logical reasoning techniques** (deductive, inductive) support persuasive and rational argumentation.
 
 By mastering these aspects, professionals can communicate more effectively, build stronger relationships, and drive better business outcomes.
-```
+
+---
+
+# Summary of Chapter II: Business Problem Solving Techniques
+
+---
+
+## 01 Business Problem Solving Techniques
+
+### A) Concept of Business Problem Solving
+
+**Definition**
+- **Business problem solving** refers to the systematic process of identifying, analyzing, and resolving issues that hinder business performance or strategic goals.
+- It is essential for maintaining competitiveness in a rapidly changing business environment.
+
+**Importance**
+- Enables companies to:
+  - Identify root causes of inefficiencies or failures.
+  - Generate innovative solutions based on facts and data.
+  - Make informed decisions that align with strategic objectives.
+  - Continuously improve processes and outcomes.
+
+**Core Principles**
+- Use of structured methodologies to ensure comprehensive understanding.
+- Integration of **creative thinking**, **logical reasoning**, and **rational decision-making**.
+- Emphasis on **problem awareness** and proactive resolution.
+
+---
+
+### B) Business Problem Solving Process
+
+The business problem-solving process follows a structured methodology:
+
+#### 1. **Problem Definition**
+- Clearly articulate what the issue is.
+- Identify scope, impact, and stakeholders involved.
+- Define success criteria for resolution.
+
+#### 2. **Cause Analysis**
+- Use profiling and analytical tools (e.g., fishbone diagram, 5 Whys).
+- Determine root causes rather than symptoms.
+
+#### 3. **Alternative Development & Evaluation**
+- Generate multiple possible solutions.
+- Evaluate alternatives using criteria like feasibility, cost, impact, and alignment with strategy.
+
+#### 4. **Solution Application and Feedback**
+- Implement the chosen solution.
+- Monitor outcomes and gather feedback.
+- Refine or iterate as needed.
+
+#### [Figure 6] Detailed General Problem Solving Process
+| Stage | Description |
+|-------|-------------|
+| Step 1: Problem Definition | Decide what problem to solve; organize information. |
+| Step 2: Cause Analysis | Investigate underlying reasons using structured methods. |
+| Step 3: Alternative Development | Brainstorm and evaluate potential solutions. |
+| Step 4: Solution Implementation | Apply the selected solution. |
+| Step 5: Feedback and Improvement | Assess effectiveness and refine the approach. |
+
+This process ensures problems are addressed holistically, reducing recurrence and improving long-term outcomes.
+
+---
+
+### C) Creative Thinking Techniques
+
+Creative thinking techniques help generate novel ideas and break through conventional patterns of thought.
+
+#### 1. **Brainstorming**
+- Encourages free flow of ideas without immediate judgment.
+- Can be used throughout the problem-solving cycle—from cause analysis to action planning.
+
+##### [Figure 7] Flow of Brainstorming:
+- Presentation of topic/problem
+- Collection of opinions/ideas (sequential or free-form)
+- Idea evaluation
+
+#### 2. **Six Thinking Hats (Edward de Bono)**
+- Provides six perspectives (hats) to structure group discussion:
+  - **White Hat**: Facts and data
+  - **Red Hat**: Emotions and intuition
+  - **Black Hat**: Caution and critical thinking
+  - **Yellow Hat**: Optimism and benefits
+  - **Green Hat**: Creativity and alternative ideas
+  - **Blue Hat**: Process control and organization
+
+This technique enhances collaboration and reduces conflict during idea generation.
+
+#### 3. **TRIZ (Theory of Inventive Problem Solving)**
+- A systematic innovation methodology derived from studying thousands of patents.
+- Focuses on resolving contradictions and applying proven principles.
+
+##### TRIZ Core Concepts:
+| Element | Description |
+|--------|-------------|
+| **Generalized Problem** | Abstract the specific problem into a general form. |
+| **Generalized Solution** | Apply known inventive principles to solve generalized problems. |
+| **Specific Solution** | Adapt the solution back to the original context. |
+
+##### Key Tools:
+- **40 Principles of Invention**
+- **76 Standard Solutions**
+- **ARIZ Algorithm** – A step-by-step method for complex problem solving.
+
+TRIZ enables businesses to move beyond trial-and-error and develop breakthrough innovations.
+
+---
+
+### D) Logical Thinking Technique
+
+Logical thinking focuses on structuring thoughts and arguments based on facts, data, and objective reasoning.
+
+#### 1. **MECE Principle (Mutually Exclusive, Collectively Exhaustive)**
+- Ensures that categories or classifications do not overlap and cover all possibilities.
+- Used in business analysis, market segmentation, and problem structuring.
+
+##### Example:
+- Breaking down a company’s performance into customer, competitor, and internal factors without overlapping.
+
+#### 2. **Logic Tree**
+- Visual tool for breaking down complex problems into manageable components.
+- Helps in hierarchical decision-making by segmenting issues and analyzing them stage by stage.
+
+##### Application Areas:
+- Strategy formulation
+- Root cause identification
+- Project planning
+
+#### 3. **Analytical Hierarchy Process (AHP)**
+- Breaks down complex, non-quantifiable problems into smaller, more understandable parts.
+- Uses pairwise comparisons to prioritize options and make decisions.
+
+##### Key Steps:
+- Decompose the problem into a hierarchy.
+- Compare elements at each level to determine relative importance.
+- Synthesize results to identify the best course of action.
+
+These logical frameworks support clarity, precision, and objectivity in business problem solving.
+
+---
+
+### E) Rational Decision-Making Techniques
+
+Rational decision-making involves evaluating problems and selecting the best solution based on evidence and logic.
+
+#### 1. **Use of Data and Evidence**
+- Decisions should be grounded in objective data rather than intuition or assumptions.
+- Includes financial metrics, market research, operational KPIs, and customer insights.
+
+#### 2. **Cost-Benefit Analysis**
+- Compares the expected costs against potential benefits.
+- Often uses indicators like **NPV (Net Present Value)** and **B/C Ratio (Benefit-Cost Ratio)**.
+
+#### 3. **Scenario Planning**
+- Develops multiple plausible future scenarios to test strategies under different conditions.
+- Enhances preparedness and adaptability.
+
+#### 4. **Decision Matrix**
+- Evaluates alternatives based on weighted criteria.
+- Useful when multiple options exist and trade-offs must be made.
+
+By applying rational decision-making techniques, organizations can reduce biases and increase the likelihood of successful outcomes.
+
+---
+
+### F) Problem-Solving Skills
+
+Modern enterprises emphasize **problem-solving skills** as a core competency for employees at all levels.
+
+#### Essential Competencies:
+
+| Skill | Description |
+|-------|-------------|
+| **Problem Awareness** | Ability to recognize issues before they escalate. |
+| **Root Cause Analysis** | Identify underlying causes, not just surface-level symptoms. |
+| **Critical Thinking** | Evaluate options objectively and logically. |
+| **Creativity** | Generate new ideas and approaches. |
+| **Collaboration** | Work effectively with teams to solve complex issues. |
+
+#### Supporting Mindsets and Behaviors:
+
+| Attribute | Importance |
+|-----------|------------|
+| **Broad Knowledge Base** | Understanding diverse areas helps in making informed connections. |
+| **Zero-Base Thinking** | Approaching problems without preconceived notions. |
+| **Openness to Feedback** | Willingness to listen and adjust strategies accordingly. |
+| **Emotional Intelligence** | Avoiding emotional bias in decision-making. |
+
+#### [Figure 5] Problem Solving Through Efforts of Knowledge/Information and Optimal Combination:
+- Combines deep knowledge acquisition with creative synthesis.
+- Encourages exploration of best practices and cross-functional learning.
+
+#### [Figure 10] Structuring via Logic Tree Using MECE:
+- Demonstrates how to decompose a business strategy into actionable, non-overlapping components.
+
+---
+
+## Conclusion
+
+Effective **business problem-solving** integrates **creative thinking**, **logical reasoning**, and **rational decision-making** to address challenges systematically and innovatively.
+
+Key takeaways:
+- The **structured problem-solving process** ensures clarity, depth, and follow-through.
+- **Creative techniques** like brainstorming, Six Thinking Hats, and TRIZ foster innovation and out-of-the-box thinking.
+- **Logical frameworks** such as MECE, logic trees, and AHP bring order and precision.
+- **Rational decision-making tools** enable objective selection among alternatives.
+- Strong **problem-solving skills**—including awareness, creativity, and analytical ability—are essential for modern professionals.
+
+Organizations that cultivate these capabilities across their workforce are better equipped to navigate uncertainty, drive continuous improvement, and maintain competitive advantage in dynamic markets.
