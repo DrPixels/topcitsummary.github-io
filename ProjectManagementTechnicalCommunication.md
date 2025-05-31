@@ -1,5 +1,5 @@
 [Chapter I: Business Communication: Concepts, Elements, and Method](#summary-of-chapter-I-business-communication-concepts-elements-and-method)  
-[Chapter II: Business Problem Solving Techniques](#summary-of-chapter-II-business-problem-solving-techniques)
+[Chapter II: Business Problem Solving Techniques](#summary-of-chapter-II-business-problem-solving-techniques)  
 [Chapter III: Business Document Writing Techniques](#summary-of-chapter-III-business-document-writing-techniques)
 
 # Summary of Chapter I: Business Communication: Concepts, Elements, and Methods
