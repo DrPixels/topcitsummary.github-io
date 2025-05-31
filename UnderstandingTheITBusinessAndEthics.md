@@ -6,7 +6,7 @@
 [Chapter VI - Understanding the IT Business and Enterprise Solutions](#summary-of-chapter-VI-understanding-the-it-business-and-enterprise-solutions)  
 [Chapter VII - Understanding the IT Business Performance Evaluation](#summary-of-chapter-VII-understanding-the-it-business-performance-evaluation)  
 [Chapter VIII: IT Business Environmental Transformation and Response](#summary-of-chapter-VIII-it-business-environmental-transformation-and-response)  
-[Chapter IX - Latest IT Business Services](#summary-of-chapter-IX-latest-it-business-services)
+[Chapter IX - Latest IT Business Services](#summary-of-chapter-IX-latest-it-business-services)  
 [Chapter X - Professional Ethics of IT Business](#summary-of-chapter-x-professional-ethics-of-it-business)
 
 # Summary of 04 The IT Business Value Chain
