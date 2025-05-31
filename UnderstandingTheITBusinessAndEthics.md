@@ -479,14 +479,49 @@ It outlines **three main processes**:
 
 This standard supports consistency and quality across different software adoption methods. When combined with frameworks like **SPICE** or **CMMI**, it helps not only define *what* needs to be done but also *how* it should be executed.
 
-**Basic Lifecycle Sub-processes:**
-- Acquisition
-- Supply
-- Development
-- Operation
-- Maintenance
+#### Basic Lifecycle Process
 
-This ensures alignment between software lifecycle activities and stakeholder expectations.
+The basic lifecycle process consists of **five sub-processes**:
+
+| Sub-Process | Description |
+|-------------|-------------|
+| **Acquisition** | Defines activities of the software acquirer and system/service acquisition. |
+| **Supply** | Defines activities of the software supplier centered on delivering to the acquirer. |
+| **Development** | Defines activities of developers and outputs from development teams. |
+| **Operation** | Defines activities related to operations services provided by operators. |
+| **Maintenance** | Defines activities for maintaining and updating software systems. |
+
+These processes support all stakeholders involved in software development and ensure alignment with business goals.
+
+#### Support Lifecycle Process
+
+The support lifecycle process consists of **eight sub-processes** and plays a role in supporting other lifecycle processes by ensuring quality and success of outputs.
+
+| Sub-Process | Description |
+|-------------|-------------|
+| **Documentation** | Records all outputs generated during the lifecycle. |
+| **Configuration Management** | Manages configuration items and changes systematically. |
+| **Quality Assurance** | Ensures compliance with plans and requirement fulfillment. |
+| **Verification** | Checks if software output meets design specifications. |
+| **Validation** | Confirms that the software works correctly from user perspective. |
+| **Joint Review** | Evaluates progress and outputs comprehensively. |
+| **Audit** | Examines compatibility with contracts and plans. |
+| **Problem Resolution** | Identifies and resolves issues found during lifecycle phases. |
+
+These support processes are critical for ensuring **quality assurance**, **traceability**, and **risk mitigation** throughout the software lifecycle.
+
+#### Organization Lifecycle Process
+
+The organization lifecycle process provides the **foundational structure** for managing software lifecycle activities at the organizational level, independent of specific projects or systems.
+
+| Sub-Process | Description |
+|-------------|-------------|
+| **Management** | Defines basic management activities, including project management. |
+| **Infrastructure** | Establishes the basic structure and environment for lifecycle processes. |
+| **Improvement** | Describes activities for continuous improvement of lifecycle practices. |
+| **Training** | Ensures availability of trained staff through defined training activities. |
+
+These processes help build a **mature software development environment** and ensure long-term sustainability of IT initiatives.
 
 ---
 
