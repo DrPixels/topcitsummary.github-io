@@ -1,5 +1,5 @@
-[04 The IT Business Value Chain](#summary-of-04-the-it-business-value-chain)
-[Chapter II: IT Business Strategy: Recent Trends and Major Issues])(#chapter-II:-it-business-strategy:-recent-trends-and-major-issues)
+[04 The IT Business Value Chain](#summary-of-04-the-it-business-value-chain)  
+[Chapter II: IT Business Strategy: Recent Trends and Major Issues](#chapter-II:-it-business-strategy:-recent-trends-and-major-issues)
 # Summary of 04 The IT Business Value Chain
 
 ## Overview
@@ -61,6 +61,8 @@ This evolution leads to structural changes:
 - It’s no longer just part of the value chain—it represents a **new paradigm of value creation** that affects strategy and organization design.
 
 > **Conclusion**: The traditional value chain model must evolve to reflect IT's central role in modern business—both as an enabler and as the foundation of new business models.
+
+---
 
 # Summary of Chapter II: IT Business Strategy: Recent Trends and Major Issues
 
