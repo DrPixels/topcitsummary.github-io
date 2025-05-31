@@ -8,6 +8,7 @@
 [Chapter VIII: IT Business Environmental Transformation and Response](#summary-of-chapter-VIII-it-business-environmental-transformation-and-response)  
 [Chapter IX - Latest IT Business Services](#summary-of-chapter-IX-latest-it-business-services)  
 [Chapter X - Professional Ethics of IT Business](#summary-of-chapter-x-professional-ethics-of-it-business)
+[Chapter XI - Privacy](#summary-of-chapter-XI-privacy)
 
 # Summary of 04 The IT Business Value Chain
 
@@ -1905,3 +1906,212 @@ Organizations like **ACM**, **IEEE-CS**, **NSPE**, and **ISACA** provide detaile
 - Lifelong learning and ethical leadership
 
 Ultimately, **ethical awareness and self-discipline** are essential for fostering a sustainable, safe, and equitable technological future.
+
+---
+
+# Summary of Chapter XI: Privacy
+
+---
+
+## 01 Understanding of Personal Information
+
+### A) Concept of Personal Information
+
+**Definition of Personal Information**
+- Refers to any information related to a **living individual**, including:
+  - Name, resident registration number, address, phone number, date of birth, etc.
+  - Biometric data (e.g., fingerprint, iris, facial recognition)
+  - Medical/health records, criminal history, political opinions, etc.
+
+**Key Characteristics:**
+- Includes both **direct identifiers** (e.g., name, ID number) and **indirect identifiers** that can be combined with other data to identify an individual.
+- Considered not just as data, but as an **organizational asset** and even a **national strategic resource** due to its value and sensitivity.
+
+**Special Categories of Personal Information**
+- Sensitive personal information includes:
+  - Racial or ethnic origin
+  - Political opinions
+  - Religious beliefs
+  - Health data
+  - Genetic data
+  - Criminal records
+
+These require enhanced protection measures due to the potential for discrimination or harm if misused.
+
+---
+
+### B) Relevant Domestic Laws and Regulations Related to Personal Information Protection
+
+**1. Personal Information Protection Act (PIPA) – South Korea**
+
+The PIPA governs the processing of personal information by public and private entities. Key provisions include:
+
+| Provision | Description |
+|----------|-------------|
+| **Collection Limitation** | Must collect only necessary information with prior consent or legal basis. |
+| **Purpose Specification** | Purpose of collection must be clearly stated; use limited to that purpose. |
+| **Use Limitation** | Prohibits secondary use without consent or legal authority. |
+| **Security Safeguards** | Requires encryption and access control for sensitive data like resident registration numbers. |
+| **Leakage Notification** | Mandatory reporting of breaches affecting over 1,000 individuals. |
+| **Individual Rights** | Right to access, correct, delete personal information. |
+
+**2. Act on Promotion of Information and Communication Network Utilization and Information Protection, Etc. ("Network Act")**
+- Governs personal information collected through online services.
+- Requires businesses to:
+  - Notify users of data usage purposes
+  - Obtain explicit consent before collecting or sharing data
+  - Implement technical safeguards to prevent unauthorized access
+
+**3. ISMS-P Certification System**
+- A certification system for organizations to demonstrate compliance with personal information protection standards.
+- Involves systematic audits and grants certification to those meeting required levels of protection and management.
+
+**4. Diagnosis of Personal Information Protection Management Levels (Public Institutions)**
+- Government-level assessment framework for public institutions.
+- Evaluates:
+  - Establishment of internal policies and dedicated teams
+  - Training and supervision
+  - Consent procedures
+  - Security measures (encryption, access control)
+
+This ensures continuous improvement in personal data handling across government bodies.
+
+---
+
+### C) Foreign Policy Related to Personal Information Protection
+
+**1. OECD Privacy Guidelines (1980)**
+
+Established foundational principles for international data protection:
+
+| Principle | Description |
+|----------|-------------|
+| **Collection Limitation** | Data should be collected lawfully and not exceed necessity. |
+| **Data Quality** | Data should be accurate and up-to-date. |
+| **Purpose Specification** | Collection purposes must be clear; no repurposing without consent. |
+| **Use Limitation** | Data shouldn’t be used beyond original purpose unless authorized. |
+| **Security Safeguards** | Protect against unauthorized access, destruction, modification. |
+| **Openness Principle** | Organizations must disclose their data practices. |
+| **Individual Participation** | Individuals have rights to access, correct, and delete their data. |
+| **Accountability Principle** | Data controllers are responsible for compliance. |
+
+These guidelines form the basis of many national privacy laws.
+
+**2. EU General Data Protection Regulation (GDPR)**
+
+Enacted in 2016, GDPR is one of the most comprehensive data protection frameworks globally.
+
+#### Key Features:
+- Applies to all companies processing data of EU citizens, regardless of location.
+- Defines three roles:
+  - **Data Subject**: The individual whose data is being processed.
+  - **Controller**: Determines the purpose and means of processing.
+  - **Processor**: Processes data on behalf of the controller.
+
+#### GDPR Core Principles:
+- Lawfulness, fairness, transparency
+- Purpose limitation
+- Data minimization
+- Accuracy
+- Storage limitation
+- Integrity and confidentiality
+- Accountability
+
+#### Enforcement & Penalties:
+- Violations may result in fines up to €20 million or 4% of global annual turnover (whichever is higher).
+- Breach notification within 72 hours is mandatory.
+
+#### Individual Rights under GDPR:
+- Right to be informed
+- Right of access
+- Right to rectification
+- Right to erasure (“right to be forgotten”)
+- Right to restrict processing
+- Right to data portability
+- Right to object
+- Rights related to automated decision-making and profiling
+
+GDPR has become a benchmark for global privacy regulation.
+
+---
+
+## 02 Ex Ante and Ex Post Response Method for Personal Information Infringement
+
+### A) Proactive Measures for Personal Information Controllers
+
+Organizations must implement **technical and administrative safeguards** to protect personal data.
+
+#### Administrative Protection:
+- Establish and enforce internal management plans for personal information.
+- Assign dedicated personnel and budget for data protection activities.
+- Train employees on data handling and conduct regular audits.
+
+#### Technical Protection:
+- Apply differential access rights based on job functions.
+- Use encryption for databases containing personal information.
+- Install intrusion detection/prevention systems.
+- Maintain access logs and secure them from alteration or deletion.
+- Immediately revoke access rights when employee roles change or terminate.
+
+#### De-identification Process
+- Businesses using data for analysis must de-identify it to prevent re-identification.
+- Involves removing or encrypting identifying elements so individuals cannot be directly identified.
+
+#### Public Sector Focus:
+- For public institutions, special emphasis is placed on:
+  - Conducting impact assessments
+  - Installing image information processing devices responsibly
+  - Preventing leaks via webpages or mobile devices
+  - Developing emergency response procedures
+
+---
+
+### B) Follow-up Measures for Personal Information Controllers
+
+#### 1. Response to Personal Information Leakage
+If a breach occurs:
+- Notify affected individuals immediately.
+- Inform regulatory authorities (mandatory if >1,000 individuals impacted).
+- Take immediate corrective actions:
+  - Confirm facts and source of leak
+  - Block compromised websites
+  - Prompt users to change passwords
+  - Report to relevant authorities
+
+#### 2. Handling of Personal Information Exposure
+- Cases where personal data becomes publicly accessible due to hacking or negligence must be addressed swiftly.
+- Affected individuals must be notified and provided with remedies.
+
+#### 3. Permission to Access Personal Information
+- Only authorized personnel should have access.
+- Unauthorized disclosure or transfer is prohibited.
+- Access rights must be reviewed regularly and revoked upon role changes.
+
+#### 4. Dispute Resolution Mechanisms
+- Systems exist for resolving disputes arising from misuse of personal data.
+- Includes:
+  - Group dispute mediation
+  - Group lawsuits
+  - Presidential Personal Information Protection Committee oversight
+
+#### 5. Compliance and Improvement Actions
+- After a breach or audit failure, organizations must:
+  - Review and update internal policies
+  - Enhance technical controls
+  - Re-train staff
+  - Improve encryption and access protocols
+  - Regularly assess compliance with regulations
+
+---
+
+## Conclusion
+
+With the increasing digitization of services and expansion of data-driven business models, **personal information has become a critical asset**—and a major liability if mishandled.
+
+Domestic laws such as South Korea’s **Personal Information Protection Act** and the **Network Act** provide a robust legal framework for protecting data, while international standards like the **OECD Privacy Guidelines** and the **EU GDPR** set high benchmarks for global compliance.
+
+Effective data governance requires a combination of:
+- **Proactive measures** (technical and administrative safeguards)
+- **Ex-post responses** (breach notifications, corrective actions, dispute resolution)
+
+Ultimately, **data protection is not just a legal obligation** but a key component of **trust-building**, **brand reputation**, and **long-term competitiveness** in the digital age.
