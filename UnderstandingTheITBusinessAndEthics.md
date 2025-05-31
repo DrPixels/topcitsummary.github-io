@@ -1,5 +1,6 @@
 [04 The IT Business Value Chain](#summary-of-04-the-it-business-value-chain)  
 [Chapter II - IT Business Strategy: Recent Trends and Major Issues](#summary-of-chapter-II-it-business-strategy-recent-trends-and-major-issues)  
+[Chapter III - Understanding IT Business Planning: Recent Trends and Key Issues](#summary-of-chapter-III-understanding-it-business-planning-recent-trends-and-key-issues)
 
 # Summary of 04 The IT Business Value Chain
 
@@ -236,3 +237,172 @@ Developing a successful **IT business strategy** involves:
 - Leveraging data and business intelligence for informed decision-making.
 
 This holistic and adaptive approach enables organizations to not only survive but thrive in rapidly changing markets.
+
+---
+
+# Summary of Chapter III: Understanding IT Business Planning: Recent Trends and Key Issues
+
+---
+
+## 01 Summary of Lessons Learned
+
+IT business planning begins with **strategy establishment** and extends into **planning**, specifically through two major activities:
+- **Enterprise Architecture (EA)** – a macro-level blueprint for aligning business and IT.
+- **Information Strategic Planning (ISP)** – more detailed, system-specific planning.
+
+These plans guide the deployment, operation, and evaluation of IT business processes and services. Effective planning prevents redundant or overlapping development efforts and ensures alignment with organizational goals.
+
+Key to this process is **IT governance**, which provides control over EA and ISP implementation, ensuring alignment with corporate strategy, managing risk, and measuring performance.
+
+---
+
+## 02 IT Governance
+
+### A) Concept of IT Governance
+
+- **Definition**: IT governance is a system that ensures IT resources are aligned with an organization’s strategies and goals.
+- It includes leadership, structure, processes, roles, responsibilities, and decision-making authority.
+- Purpose: Realize business objectives through proper use of IT, manage risks, and ensure transparency and accountability.
+
+> **Sources of Definition**:
+> - IT Governance Institute, Gartner, Entrue Consulting Partners all emphasize strategic alignment and structured management of IT.
+
+### B) Framework of IT Governance
+
+- Governed by frameworks like **COBIT 5**, which integrates governance and management processes.
+- Ensures:
+  - Alignment of IT with business goals.
+  - Value delivery from IT investments.
+  - Risk and resource management.
+  - Transparent stakeholder communication.
+
+### C) IT Governance Process
+
+The IT governance process follows four stages:
+
+1. **Planning Stage**
+   - Aligns business and IT goals.
+   - Defines IT objectives, structures, and mechanisms for organizing IT activities.
+
+2. **Operations Stage**
+   - Involves monitoring of IT resources, risks, and management activities.
+   - Ensures ongoing alignment and performance.
+
+3. **Evaluation Stage**
+   - Assesses whether IT goals are being met.
+   - Measures performance against benchmarks.
+
+4. **Feedback Stage**
+   - Incorporates insights into future planning cycles.
+   - Enables continuous improvement.
+
+### D) Key Focus Areas of IT Governance
+
+| Focus Area             | Description |
+|------------------------|-------------|
+| **Strategic Alignment** | Ensuring IT supports business strategy; using EA as a tool. |
+| **Value Delivery**      | Achieving business value through optimized integration of IT and business processes. |
+| **Risk Management**     | Managing risks to ensure continuity of IT operations (e.g., DR, BCP). |
+| **Resource Management** | Efficient allocation and management of IT resources. |
+| **Performance Measurement** | Measuring IT effectiveness using metrics like IT ROI, BSC, etc. |
+
+---
+
+## 03 Concept of EA (Enterprise Architecture)
+
+### A) Overview of EA
+
+- **Definition**: Enterprise Architecture (EA) is a blueprint that explains how IT supports enterprise strategy and information resource management.
+- Used to define the current and desired future state of the relationship between IT and business.
+- Helps stakeholders understand the big picture of business and IT operations.
+
+> As defined by the U.S. Office of Management and Budget (OMB), EA enables enterprises to achieve strategic goals through structured IT-business alignment.
+
+### B) Conceptual Diagram of an EA and Its Components
+
+- **EA starts with enterprise business strategy**, which converges with IT strategy to produce a unified architecture.
+- **Components of EA**:
+  - **Business Architecture (BA)** – Organizing business processes and functions.
+  - **Application Architecture (AA)** – Structure of applications supporting business needs.
+  - **Data Architecture (DA)** – Management of data assets.
+  - **Technology Architecture (TA)** – Underlying tech infrastructure.
+  - **Security Architecture (SA)** – Integrated security controls.
+  - **Standard Profile (SP)** – Detailed specifications of technology standards.
+
+Each component has reference models (e.g., PRM, DRM, TRM) that provide industry best practices and government-wide EA templates.
+
+### C) The EA Framework
+
+Popular EA frameworks include:
+
+| Framework              | Description |
+|------------------------|-------------|
+| **Zachman Framework**  | Most widely used; based on a matrix of perspectives (Planner, Owner, Designer, etc.) and descriptive aspects (Data, Function, Network, etc.). |
+| **TOGAF (The Open Group Architecture Framework)** | Open framework focusing on interoperability; includes ADM cycle, TRM, and SIP. |
+| **FEAF (Federal EA Framework)** | Developed by U.S. CIO Council; defines five reference models (BRM, PRM, DRM, SRM, TRM) and uses Zachman as a foundation. |
+
+These frameworks help in structuring EA, identifying gaps (AS-IS vs. TO-BE), and guiding implementation.
+
+---
+
+## 04 Concept of ISP (Information Strategic Planning)
+
+### A) Overview of ISP
+
+- **Definition**: Information Strategic Planning (ISP) involves creating a vision for information systems and management structures that support enterprise goals.
+- Guides mid-to-long-term IT development and deployment.
+- Provides a roadmap for informatization strategies and system implementation.
+
+### B) ISP Deployment Procedure
+
+ISP follows a structured process:
+
+1. **Management Environment Analysis**
+   - Analyze internal/external environments using SWOT, Porter's Five Forces, McKinsey 7S, etc.
+
+2. **Information Technology Environment Analysis**
+   - Study IT trends, assess feasibility of new technologies, identify requirements.
+
+3. **Work Analysis**
+   - Examine current business processes and identify areas for improvement.
+
+4. **Information System Analysis**
+   - Assess current systems and identify gaps.
+
+5. **Benchmarking**
+   - Compare with similar organizations to correct deficiencies.
+
+6. **Gap Analysis**
+   - Identify discrepancies between current and desired states.
+
+7. **Future Model Design**
+   - Define future business processes, information systems, and management strategies.
+   - Establish implementation roadmaps and investment plans.
+
+8. **Feasibility Analysis**
+   - Economic analysis (NPV, B/C ratio).
+   - Alternative scenario modeling.
+
+### C) Key Output of ISP Deployment
+
+| Stage                          | Output |
+|--------------------------------|--------|
+| Business Environment Analysis | Report on business environment, including opportunities/threats. |
+| Current State Analysis         | Reports on current processes, IT systems, and improvement areas. |
+| IT Analysis                    | Report on IT trends and their applicability. |
+| Informatization Strategy       | Vision, goals, execution plan for informatization. |
+| Future Business Process Design | Blueprint for improved processes and system architecture. |
+| Implementation Plan            | Roadmap, budget, timelines, and benefit analysis. |
+
+ISP outputs serve as actionable blueprints for deploying IT systems aligned with strategic goals, often at a more detailed level than EA.
+
+---
+
+## Conclusion
+
+Effective IT business planning requires:
+- **Strong IT governance** to align IT with business goals and manage risks.
+- **Enterprise Architecture (EA)** to provide a holistic view of IT-business integration.
+- **Information Strategic Planning (ISP)** to develop detailed system-specific strategies.
+
+Together, these components ensure structured, strategic, and measurable IT development and operations, enabling organizations to adapt, innovate, and gain competitive advantage.
