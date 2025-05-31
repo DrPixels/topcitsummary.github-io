@@ -1,6 +1,7 @@
 [Chapter I: Business Communication: Concepts, Elements, and Method](#summary-of-chapter-I-business-communication-concepts-elements-and-method)  
 [Chapter II: Business Problem Solving Techniques](#summary-of-chapter-II-business-problem-solving-techniques)  
-[Chapter III: Business Document Writing Techniques](#summary-of-chapter-III-business-document-writing-techniques)
+[Chapter III: Business Document Writing Techniques](#summary-of-chapter-III-business-document-writing-techniques)  
+[Chapter IV: How to Write Technical Documents](#summary-of-chapter-IV-how-to-write-technical-documents)
 
 # Summary of Chapter I: Business Communication: Concepts, Elements, and Methods
 
@@ -583,3 +584,294 @@ Key takeaways:
 - Maintain **traceability, objectivity, and professionalism** throughout.
 
 By mastering these techniques, professionals can ensure their messages are understood, acted upon, and preserved for future reference—supporting better communication, decision-making, and operational efficiency.
+
+---
+
+# Summary of Chapter IV: How to Write Technical Documents
+
+---
+
+## 01 Concept and Types of Technical Documents
+
+### A) Definition of Technical Documents
+
+**Technical documents** are formal records that describe **reference materials**, **product handling**, or **system architecture development and usage**. They are designed to provide **sufficient, accurate information** so that not only end users but also administrators, developers, and maintenance technicians can understand the internal and external workings of a product or system.
+
+- Written using **technical terminology** relevant to the domain.
+- Must be understandable even to readers unfamiliar with the subject matter.
+
+They play a critical role in ensuring clarity, consistency, and traceability across software development, project management, and system implementation phases.
+
+---
+
+### B) Features of Technical Documents
+
+| Feature | Description |
+|--------|-------------|
+| **Clarity** | Avoid abstract expressions and metaphors; ensure unambiguous interpretation. |
+| **Accuracy** | Based on objective facts, data, and logical reasoning. |
+| **Structuredness** | Follow standardized formats (introduction, body, conclusion) for coherence and unity. |
+| **Objectivity** | Avoid emotional language, personal bias, or subjective opinions. |
+| **Self-contained** | Readers should understand content without referring to other documents. |
+
+These features ensure technical documents are reliable, readable, and useful for both current and future reference.
+
+---
+
+### C) Types of Technical Documents
+
+Technical documents vary based on their purpose and stage in the development lifecycle:
+
+| Document Type | Purpose |
+|---------------|---------|
+| **Business Plan** | Describes the feasibility, goals, and financial aspects of a proposed business activity. |
+| **Request for Information (RFI)** | Used to gather information from vendors before issuing an RFP. |
+| **Request for Proposal (RFP)** | Invites vendors to submit proposals for a specific project. |
+| **Proposal** | Submitted by vendors to win contracts; details experience, methodology, and cost. |
+| **Requirement Traceability Matrix** | Tracks requirements throughout the development lifecycle. |
+| **Analysis Document** | Outlines functional and non-functional software requirements. |
+| **Design Brief** | Details system architecture, interface design, and database structure. |
+| **Test Design Brief** | Defines test cases, expected results, and testing methodologies. |
+| **Manual** | Guides users through installation, operation, and troubleshooting. |
+| **Project Completion Report** | Summarizes outcomes, lessons learned, and statistical performance metrics. |
+
+Each type serves a unique function in documenting and guiding technical work from planning to post-deployment evaluation.
+
+---
+
+## 02 Principles and Methods of Writing Technical Documents
+
+### A) Expression and Description Methods
+
+Technical writing must adhere to strict standards of:
+- **Accuracy**: Ensure all statements are factually correct and verifiable.
+- **Logical Flow**: Present ideas in a structured manner (e.g., introduction → analysis → solution).
+- **Consistency**: Use uniform terminology, formatting, and style throughout the document.
+- **Clarity**: Avoid ambiguity; use precise language and avoid jargon unless necessary.
+
+#### Key Techniques:
+- Use of **diagrams and figures** to enhance understanding.
+- Employ **conclusion-first writing** to help readers grasp key points quickly.
+- Use **tables** and **bullet points** to improve readability.
+
+---
+
+### B) Precautions for Writing Technical Documents
+
+When drafting technical documents, writers must:
+- **Avoid emotional expressions** and focus on objective descriptions.
+- **Use predefined templates** to maintain organizational consistency.
+- **Maintain neutrality** and refrain from including personal feelings or relationships.
+- **Ensure self-containment** – the document should stand alone without requiring external references.
+- **Verify completeness** – all claims must be supported by data or logical reasoning.
+
+---
+
+### C) Writing Articulate Technical Documents
+
+To ensure high-quality documentation:
+- Conduct **proofreading and review during writing** rather than waiting until completion.
+- Focus on **improving accuracy and logic** as you go.
+- Use tools like checklists and peer reviews to enhance quality.
+- Apply principles of **consistency**, **relevance**, and **accuracy**.
+
+This iterative approach increases the overall completeness and reliability of technical documents.
+
+---
+
+## 03 Writing Technical Documents
+
+### A) Business Plan (Plan)
+
+A business plan outlines the scope, objectives, and strategies for a proposed project.
+
+| Section | Content |
+|--------|---------|
+| **General Status** | Overview of the project, goals, and market context |
+| **Goals** | Clear definition of what the project aims to achieve |
+| **Content** | Detailed description of the project's components |
+| **Business Method** | How the project will be executed |
+| **Finance** | Budget, labor, and time estimates |
+| **Expected Effects** | Anticipated benefits and impacts |
+
+It is used to convince stakeholders and investors of the project’s viability.
+
+---
+
+### B) Request for Information (RFI)
+
+An **RFI** gathers preliminary information from potential vendors before making procurement decisions.
+
+| Component | Description |
+|-----------|-------------|
+| **Background & Purpose** | Explains why the RFI is being issued |
+| **Scope** | Defines the systems or services under consideration |
+| **Submission Method** | Instructions for vendor responses |
+| **Business Status** | Current IT infrastructure and business environment |
+| **Requirements** | Functional and technical needs |
+| **Support Requirements** | Training, maintenance, and technical support expectations |
+
+RFIs help organizations evaluate market capabilities before moving to formal procurement stages.
+
+---
+
+### C) Request for Proposal (RFP)
+
+The **RFP** is a formal request for vendors to propose solutions to a defined project or system need.
+
+| Section | Content |
+|--------|---------|
+| **Overview** | Project background, goals, and constraints |
+| **System Configuration** | Required system architecture and specifications |
+| **Development Requirements** | Implementation, training, and PM methods |
+| **Budget & Timeline** | Expected cost and delivery schedule |
+| **Support Requirements** | Maintenance, upgrades, and technical assistance |
+| **Evaluation Criteria** | How proposals will be assessed |
+
+RFPs are crucial for selecting the most suitable vendor and defining project boundaries.
+
+---
+
+### D) Proposal
+
+A **proposal** is submitted by vendors in response to an RFP. It demonstrates the vendor’s capability to meet project requirements.
+
+| Section | Description |
+|--------|-------------|
+| **Overview** | Background, purpose, scope, and prerequisites |
+| **Company Info** | Organization structure, personnel, past performance |
+| **Technology** | System design, configuration, delivery, and installation plan |
+| **Business Management** | Cost breakdown, timeline, resource allocation |
+| **Support** | Post-implementation support and maintenance plans |
+
+Proposals must clearly align with RFP requirements to increase chances of selection.
+
+---
+
+### E) Requirement Traceability Matrix
+
+This matrix ensures that **every requirement is addressed throughout the development process**.
+
+- Maps requirements to design, implementation, and testing phases.
+- Ensures no requirements are missed or misinterpreted.
+- Serves as a compliance tool during audits or quality assurance checks.
+
+---
+
+### F) Analysis
+
+An **analysis document** defines the **functional and non-functional requirements** for software development.
+
+| Section | Content |
+|--------|---------|
+| **General Information** | Product name, overview, strengths/weaknesses |
+| **Functional Requirements** | Input, processing, output, user characteristics |
+| **Performance Requirements** | Response time, scalability, reliability |
+| **External Interface Requirements** | User interface, hardware/software integration |
+
+Well-documented analysis forms the foundation for design and implementation.
+
+---
+
+### G) Design Brief
+
+The **design brief** outlines how the system will be built to meet requirements.
+
+| Component | Description |
+|-----------|-------------|
+| **Architecture** | High-level system structure |
+| **Screen Design** | UI/UX wireframes and navigation flow |
+| **Module Design** | Breakdown of system modules and interactions |
+| **Interface Design** | APIs, communication protocols, integration methods |
+| **DB Design** | Data models, schema, and relationships |
+
+A clear design brief helps reduce rework and ensures alignment between teams.
+
+---
+
+### H) Test Design Brief
+
+This document specifies **what to test**, **how to test**, and **expected outcomes**.
+
+| Section | Content |
+|--------|--------|
+| **Test Items** | Functionality, performance, usability |
+| **Test Cases** | Unique IDs, input data, expected output |
+| **Test Procedures** | Steps to execute tests |
+| **Pass/Fail Criteria** | Standards for determining success |
+
+Test design briefs guide QA teams and serve as the basis for automated testing frameworks.
+
+---
+
+### I) Manual
+
+A **manual** provides instructions for using a system effectively.
+
+| Section | Content |
+|--------|---------|
+| **Product Overview** | Features, strengths, weaknesses |
+| **Usage Instructions** | Installation, operation, inspection |
+| **Maintenance & Troubleshooting** | Common issues and solutions |
+| **Index and Warranty** | Quick-reference guide and support policies |
+
+ Manuals are essential for user adoption and long-term system usability.
+
+---
+
+### J) Project Completion Report
+
+Summarizes **project outcomes**, **performance against goals**, and **lessons learned**.
+
+| Section | Content |
+|--------|---------|
+| **Summary of Results** | Deliverables, system status, satisfaction levels |
+| **Profit Assessment** | Budget vs. actual costs, ROI, resource utilization |
+| **Lessons Learned** | Challenges faced, root causes, improvement plans |
+| **Statistics** | Historical data for future estimation and benchmarking |
+
+This report supports continuous improvement and knowledge transfer.
+
+---
+
+## 04 Writing Technical Documents That Fit the Purpose
+
+### A) Key Checklist for Writing Technical Documents
+
+| Criterion | Description |
+|----------|-------------|
+| **Core Message** | Clearly state the main point of the document. |
+| **Differentiation** | Highlight advantages over existing or competing technologies. |
+| **Value Communication** | Show how the technology delivers better value under given conditions (budget, schedule, etc.). |
+| **Audience Alignment** | Tailor content to the reader's level of expertise and interest. |
+
+This checklist ensures that technical documents are not only informative but also persuasive and audience-focused.
+
+---
+
+### B) Key Checklist for Reviewing Technical Documents
+
+| Aspect | What to Check |
+|--------|----------------|
+| **Logical Consistency** | Does the core message follow a consistent argument? |
+| **Factual Accuracy** | Are supporting facts and data well-researched and cited? |
+| **Readability** | Are sentences concise and easy to understand? |
+| **Visual Support** | Are diagrams, tables, and examples provided where needed? |
+| **Completeness** | Does the document cover all necessary topics? |
+
+Reviewers should ensure that the document meets both technical and communicative standards.
+
+---
+
+## Conclusion
+
+Effective **technical documentation** is vital for successful **software development**, **project execution**, and **system maintenance**.
+
+Key takeaways:
+- Understand the **purpose and audience** before drafting any document.
+- Follow **standardized formats** to ensure consistency and professionalism.
+- Prioritize **clarity, accuracy, and structured presentation**.
+- Use visual aids like **tables, diagrams, and charts** to enhance comprehension.
+- Review documents using **checklists** to ensure completeness and correctness.
+
+By applying these principles, professionals can produce **high-quality technical documents** that support decision-making, compliance, and long-term system sustainability.
