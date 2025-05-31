@@ -685,6 +685,29 @@ These tools work dynamically together to drive **continuous improvement**, helpi
 
 ## 02 Component Elements Required in IT Business Process Execution
 
+A **business model** serves as a strategic blueprint for organizing and implementing an enterprise’s structure, processes, and systems to create value. It consists of core business areas such as:
+
+- **Customers**: Understanding and meeting customer needs.
+- **Order Fulfillment**: Managing the flow from order placement to delivery.
+- **Infrastructure**: Supporting systems and resources required for operations.
+- **Business Feasibility Analysis**: Evaluating the viability and sustainability of business strategies.
+
+These components help enhance the value of the enterprise by aligning internal capabilities with market demands.
+
+To remain agile in a rapidly changing environment, an enterprise must integrate its core business processes across departments, enabling increased flexibility and responsiveness. Additionally, it must manage key assets such as:
+
+- **Core Competencies**
+- **Financial Resources**
+- **Human Capital**
+  
+The basic elements required for effective business operation include:
+
+- **People**: The workforce that executes tasks.
+- **Job System**: The framework for managing operational tasks.
+- **Tools**: Systems and technologies used to manage and optimize business processes.
+
+---
+
 ### A) People and Organization
 
 Effective execution of IT business processes requires proper alignment of **people and organizational structure**. This includes:
