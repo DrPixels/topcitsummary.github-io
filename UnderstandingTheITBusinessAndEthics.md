@@ -621,11 +621,14 @@ The outsourcing process follows several phases:
 
 ### C) Forms of Outsourcing
 
-| Form | Description | Pros & Cons |
-|------|-------------|-------------|
-| **Total Outsourcing** | Entire IT function managed externally | High coordination; may increase costs |
-| **IT Subsidiary Company Outsourcing** | Internal subsidiary handles IT | Strong internal integration; risk if unprofitable |
-| **Co-Sourcing** | Mix of internal and external teams | Balances control and expertise; requires coordination |
+IT business outsourcing can take the following forms, each with distinct advantages and challenges:
+
+| Form | Description | Pros | Cons |
+|------|-------------|------|------|
+| **Total Outsourcing** | The entire IT function is outsourced to a single vendor. | Clear accountability, improved efficiency due to centralized management. | Risk of monopolistic behavior, lack of competition, and over-dependency on one vendor. |
+| **Selective Outsourcing** | Specific functions or job units are outsourced to multiple vendors. | Encourages competition leading to better price and quality; flexible. | Potential for unclear accountability and coordination difficulties when problems arise. |
+| **IT Subsidiary Company Outsourcing** | An internal subsidiary company specializing in IT handles the outsourced work. | Strong internal communication, shared organizational culture. | Increased operational costs; if unprofitable, may become a liability to the parent company. |
+| **Co-Sourcing** | A hybrid model combining internal and external resources. | Offers flexibility; mitigates issues from total outsourcing. | Requires strong coordination between internal and external teams; potential misalignment between strategy and execution. |
 
 ---
 
