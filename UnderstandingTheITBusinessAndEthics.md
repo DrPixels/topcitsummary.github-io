@@ -9,6 +9,7 @@
 [Chapter IX - Latest IT Business Services](#summary-of-chapter-IX-latest-it-business-services)  
 [Chapter X - Professional Ethics of IT Business](#summary-of-chapter-x-professional-ethics-of-it-business)  
 [Chapter XI - Privacy](#summary-of-chapter-XI-privacy)
+[Summary of Chapter XII: Copyright and Industrial Property Rights](#summary-of-chapter-XII-copyright-and-industrial-property-rights)
 
 # Summary of 04 The IT Business Value Chain
 
@@ -2115,3 +2116,157 @@ Effective data governance requires a combination of:
 - **Ex-post responses** (breach notifications, corrective actions, dispute resolution)
 
 Ultimately, **data protection is not just a legal obligation** but a key component of **trust-building**, **brand reputation**, and **long-term competitiveness** in the digital age.
+
+---
+# Summary of Chapter XII: Copyright and Industrial Property Rights
+
+---
+
+## 01 Understanding of Intellectual Property Rights
+
+### A) Definition of Intellectual Property Rights
+
+**Intellectual Property (IP)** refers to **legally protected rights** over creations of the mind, including inventions, literary and artistic works, symbols, names, images, and designs used in commerce.
+
+- IP is a type of **intangible asset** derived from human creativity.
+- It includes:
+  - **Copyrights**: For literary, artistic, and cultural works.
+  - **Industrial Property Rights**: Including patents, trademarks, and industrial designs.
+  - **New Intellectual Property Rights**: Emerging rights due to technological advancements (e.g., software, biotech, semiconductors).
+
+Key purposes:
+- Encourage innovation and creativity.
+- Provide economic benefits to creators.
+- Promote fair competition and protect business interests.
+
+---
+
+### B) Types of Intellectual Property Rights
+
+| Type | Description |
+|------|-------------|
+| **Copyright** | Protects literary, artistic, and scientific works (e.g., books, music, films, computer programs). |
+| **Patent** | Grants exclusive rights for inventions (products or processes) that are new, involve an inventive step, and are industrially applicable. |
+| **Trademark** | Protects distinctive signs (e.g., logos, brand names) used to distinguish goods/services. |
+| **Design Right** | Covers the aesthetic appearance of a product. |
+| **Utility Model** | Similar to a patent but protects functional improvements rather than full inventions. |
+| **Trade Secret** | Confidential business information providing competitive advantage (e.g., formulas, practices, customer lists). |
+| **New IP Rights** | Includes domain names, multimedia, AI-generated content, databases, and semiconductor layouts. |
+
+These rights vary in protection duration, registration requirements, and enforcement mechanisms.
+
+---
+
+## 02 Understanding of Copyright
+
+### A) Definition and Classification of Copyright
+
+**Definition of Copyright**
+- Automatically granted upon creation of a work; **no formal registration required** (non-formality principle).
+- Gives the creator **exclusive rights** to use, copy, distribute, and modify the work.
+
+**Classification of Copyright**
+
+| Category | Description |
+|----------|-------------|
+| **Moral Rights** | Non-monetary rights protecting the author’s honor and character. <br> - Right of attribution (to be recognized as the author). <br> - Right to publish anonymously/pseudonymously. <br> - Right to integrity (prevent distortion or modification). |
+| **Author's Economic Rights** | Commercial rights allowing control over: <br> - Reproduction, distribution, public performance, broadcasting, translation, adaptation, etc. |
+| **Neighboring Rights** | Rights of performers, producers, and broadcasters. <br> - Secondary rights often more restrictive than moral rights. |
+
+**Protection Period by Work Type**
+
+| Work Type | Protection Duration |
+|-----------|---------------------|
+| Independent Works | 70 years after the author's death |
+| Joint Works | 70 years after the last surviving co-author's death |
+| Anonymous/Pseudonymous Works | 70 years from publication (or creation if not published within 50 years) |
+| Works Made for Hire | 70 years from first publication (or creation if unpublished for 50 years) |
+
+**Registration of Copyright**
+- Optional but recommended for legal evidence and dispute resolution.
+- Registration includes details like author name, nationality, work list, and ownership history.
+- Managed by institutions like the **Korea Copyright Commission**.
+
+**Exclusions from Copyright Protection**
+- Public documents (laws, treaties, official decrees)
+- Simple facts or data without creative arrangement
+- Ideas, methods, mathematical concepts
+
+---
+
+## 03 Understanding of Industrial Property Rights and New Intellectual Property Rights
+
+### A) Concept of Industrial Property Rights
+
+**Definition of Industrial Property Rights**
+- These are **exclusive rights** granted to inventors and businesses for commercial inventions and identifiers.
+- Aimed at promoting **technological progress**, **industrial development**, and **economic growth**.
+
+**Types of Industrial Property Rights**
+| Type | Description |
+|------|-------------|
+| **Patents** | Exclusive rights for new inventions (products or processes). Valid for 20 years. |
+| **Trademarks** | Symbols, names, or slogans used to identify goods/services. Renewable every 10 years. |
+| **Service Marks** | Trademarks used for services (e.g., academies, restaurants). |
+| **Design Rights** | Protect visual design of objects with aesthetic value. |
+| **Utility Models** | Protect technical solutions of practical applications. Often called "petty patents." |
+
+**Key Features:**
+- Based on **first-to-file principle**.
+- Rights are **territorial** – must be registered separately in each country.
+- Grant **exclusive use** for a limited time, after which they enter the public domain.
+
+---
+
+### B) Concept of New Intellectual Property Rights
+
+With rapid technological advancement, traditional IP laws face challenges, giving rise to **new intellectual property rights** that cover emerging fields such as:
+
+#### Examples of New IP Rights:
+| Area | Description |
+|------|-------------|
+| **Computer Programs** | Software is copyrighted, but may also be patented depending on jurisdiction. |
+| **Artificial Intelligence (AI)** | Ownership of AI-generated works is under debate globally. |
+| **Databases** | Protected under specialized laws in many jurisdictions. |
+| **Semiconductor Layout Designs** | Specially protected under laws like the Semiconductor Chip Protection Act. |
+| **Biotechnology** | Includes genetically modified organisms and bioengineered products. |
+| **Multimedia & Internet-Based Creations** | Covers web domains, online content, and interactive media. |
+| **Animated Characters** | Can be protected via copyright, trademark, or design rights. |
+
+These rights help address issues arising from digitalization, globalization, and technological convergence.
+
+---
+
+## 04 Understanding of Unfair Competition Prevention and Trade Secret Protection
+
+### A) Concept of Unfair Competition Prevention
+
+**Unfair Competition** involves deceptive, fraudulent, or misleading business practices that harm competitors or consumers.
+
+The **Act on the Prevention of Unfair Competition and Protection of Trade Secrets** aims to:
+- Prevent misuse of well-known trademarks/trade names.
+- Protect trade secrets from unauthorized access or disclosure.
+- Maintain fair market conditions and promote ethical business behavior.
+
+#### Key Prohibited Acts:
+- Unauthorized use of similar trade names or domain names.
+- Misappropriation of trade secrets.
+- Selling counterfeit or imitation goods.
+- False advertising or misleading claims.
+
+**Legal Consequences:**
+- Civil penalties (damages, injunctions)
+- Criminal liability (imprisonment up to 5 years for serious violations)
+
+---
+
+## Conclusion
+
+Understanding and managing **intellectual property rights** is crucial for innovation, competitiveness, and legal compliance in today’s knowledge-based economy.
+
+- **Copyright** safeguards creative expression and ensures creators benefit from their works.
+- **Industrial property rights** protect inventions, brands, and designs, enabling businesses to maintain exclusivity and profitability.
+- **New IP rights** address modern challenges in technology-driven industries.
+- **Unfair competition laws** prevent exploitation of others' intellectual assets and ensure ethical business practices.
+
+By respecting these rights, organizations can foster innovation, secure investments, and operate ethically in both domestic and global markets.
