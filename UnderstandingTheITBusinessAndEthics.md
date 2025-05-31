@@ -918,12 +918,50 @@ It helps businesses identify gaps between customer expectations and actual servi
 
 ### F) Understanding SPC (Statistical Process Control)
 
-**SPC** uses statistical methods to monitor and control business processes.
+**Overview of SPC**
 
-- Helps detect variations early and maintain process stability.
-- Commonly applied in manufacturing and service sectors to ensure consistent output quality.
+SPC stands for **Statistical Process Control**, a management technique that uses statistical methods to monitor and control processes, ensuring consistent product quality and minimizing defects. It helps enterprises identify causes of defects through engineering analysis and implement corrective actions effectively.
 
-SPC relies on control charts and real-time data analysis to prevent defects before they occur.
+---
+
+#### Constituent Elements of SPC
+
+| Element | Description |
+|--------|-------------|
+| **Deviation** | Refers to the variation of product attributes around a central value or trend. It indicates the quality of the product and is crucial in identifying process instability. |
+| **Process Management and Capability** | Involves managing and measuring the capability of a process to produce goods within specified quality limits. This includes analyzing whether the process can consistently meet quality requirements. |
+| **Distribution and Statistics** | Uses statistical tools to analyze the distribution of data collected during production. Helps understand patterns, trends, and anomalies in process outputs. |
+
+These elements are essential for maintaining **high-quality production** with minimal variation, ultimately supporting the goal of achieving **zero-defect manufacturing**.
+
+---
+
+#### Objectives and Benefits of SPC
+
+- **Reduce Process Variation**: Stabilizes processes to ensure uniform quality.
+- **Improve Productivity**: Leads to cost reductions and higher output efficiency.
+- **Enable Predictive Maintenance**: Identifies issues before they result in defects.
+- **Support Continuous Improvement**: Provides data-driven insights for ongoing process refinement.
+
+---
+
+#### Tools Used in SPC
+
+To collect and analyze data effectively, SPC employs various tools:
+
+**Data Collection Instruments:**
+- Work logs
+- Checklists
+- Inspection device data
+
+**Statistical Analysis Techniques:**
+- **Control Charts** – Visualize process stability over time.
+- **Histograms** – Show frequency distribution of data.
+- **Scatter Plots** – Identify relationships between variables.
+- **Pareto Diagrams** – Highlight the most significant factors contributing to defects.
+- **Cause-and-Effect Diagrams** – Help identify root causes of problems.
+
+By integrating these tools and principles, organizations can achieve **higher quality standards**, **greater operational efficiency**, and **improved customer satisfaction**.
 
 ---
 
