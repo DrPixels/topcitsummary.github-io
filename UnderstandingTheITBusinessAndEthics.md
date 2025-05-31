@@ -65,132 +65,174 @@ This evolution leads to structural changes:
 
 ---
 
-# Summary of Chapter II: IT Business Strategy: Recent Trends and Major Issues
-
-## Overview
-
-The development of an **IT business strategy** involves aligning IT with core business processes to achieve organizational goals. As IT becomes more integrated into business operations, strategic planning must evolve to reflect this convergence. This section discusses the components of strategy formulation, environmental analysis techniques (like SWOT, PEST, Porter’s Five Forces), and how they contribute to competitive advantage.
+# Summary of "IT Business Strategy: Recent Trends and Major Issues"
 
 ---
 
-## Key Elements of IT Business Strategy
+## 01 Summary of Lessons Learned
 
-### A) Strategy Formulation Process
-1. **Strategy Analysis**: Understand internal and external environments.
-2. **Strategy Selection**: Choose the best future direction based on analysis.
-3. **Implementation & Management**: Execute the strategy and monitor progress.
-4. **Feedback Loop**: Reassess strategy in response to changing conditions.
+The **IT business strategy phase** is divided into two main parts:
 
-### B) Core Components of a Strategy Plan
-- **Mission**: The company's fundamental purpose.
-- **Vision**: Long-term aspiration driven by mission fulfillment.
-- **Goals/Objectives**: Measurable targets aligned with mission and vision.
-- **Principles**: Constraints and values guiding decision-making.
-- **Enablers & Barriers**: External/internal factors that help or hinder success.
-- **Strategy**: Approach to achieving goals within defined constraints.
-- **Initiatives & Actions**: Specific activities and tasks for implementation.
-- **Performance Index**: Metrics used to measure success.
+1. **Establishment of an IT Business Strategy**
+   - Involves defining the strategic direction of the organization.
+   - Includes understanding strategic concepts, core elements (mission, vision, goals), and the overall strategy-setting process.
+
+2. **Analysis of the IT Business Environment**
+   - Covers both external and internal environments.
+   - Utilizes analytical tools like PEST, Porter’s Five Forces, 3C/4P, McKinsey 7S, SWOT, and BCG Matrix to assess opportunities, threats, strengths, and weaknesses.
+
+This structured approach ensures that strategies are aligned with both organizational objectives and environmental realities, enabling companies to adapt and remain competitive in a dynamic IT landscape.
 
 ---
 
-## IT Business Environment Analysis
+## 02 Establishment of an IT Business Strategy
+
+### A) The Concept of Strategy Establishment
+
+- **Strategy establishment** is the process of defining actions to fulfill an organization's mission.
+- Strategic plans must align with unit-level strategies and provide direction for enterprise architecture, risk management, and portfolio management.
+- Strategies should be updated continuously to reflect evolving IT business environments.
+
+### B) Elements of a Strategy Plan
+
+A comprehensive strategy plan includes the following key components:
+
+| Element             | Description |
+|---------------------|-------------|
+| **Mission**         | Core purpose or main business; time-independent. |
+| **Vision**          | Ideal future state achieved through mission fulfillment. |
+| **Goals/Objectives** | Measurable targets aligned with mission and vision. |
+| **Principles**      | Constraints and values guiding decision-making. |
+| **Enablers/Barriers** | External/internal factors influencing success. |
+| **Strategy**        | Approach to achieving goals within defined constraints. |
+| **Strategic Plan**  | Document outlining strategy and its influencing factors. |
+| **Initiatives & Actions** | Specific tasks and procedures for implementation. |
+| **Performance Index** | Metrics used to measure goal achievement. |
+
+These elements guide transformation from the current (AS-IS) model to the desired future (To-Be) model.
+
+### C) Strategy Setting Process
+
+The strategy formulation process follows four major stages:
+
+1. **Strategy Analysis**
+   - Collects data on internal and external environments.
+   - Internal environment can be controlled and improved; external requires adaptation.
+   - Includes:
+     - **External analysis**: Macro (PEST) and micro (Porter’s Five Forces).
+     - **Internal analysis**: McKinsey 7S.
+     - **Consolidated analysis**: SWOT.
+
+2. **Strategy Selection**
+   - Evaluates alternatives based on thorough analysis.
+   - Selects the most viable strategic direction using predefined criteria.
+
+3. **Strategy Implementation and Management**
+   - Executes the chosen strategy while managing change, resource allocation, and stakeholder engagement.
+   - Progress is monitored and fed back into the analysis phase for continuous improvement.
+
+4. **Feedback Loop**
+   - Ensures strategies remain valid amid changing conditions.
+   - Adjustments are made as needed to maintain alignment with business goals.
+
+---
+
+## 03 IT Business Environment Analysis
 
 ### A) External Environment Analysis
 
 #### 1. **PEST Analysis**
-Analyzes macro-environmental factors:
-- **Political**: Government stability, regulations, tax policies.
-- **Economic**: Growth, unemployment, inflation, income distribution.
-- **Social/Cultural**: Demographics, education, cultural norms.
-- **Technological**: Innovation, internet impact, R&D trends.
 
-> *Note:* Sometimes expanded to **PESTLE/PESTEL** with Legal and Environmental factors.
+Used to evaluate **macro-environmental** factors:
 
-#### 2. **Porter’s Five Forces**
-Micro-environmental framework to assess industry competitiveness:
-- **Competitive Rivalry**: Degree of competition in the industry.
-- **Supplier Power**: Influence suppliers have over pricing and availability.
-- **Buyer Power**: Influence buyers have over price and terms.
-- **Threat of New Entrants**: Ease of new competitors entering the market.
-- **Threat of Substitutes**: Availability of alternative products/services.
+| Category              | Example Factors |
+|-----------------------|------------------|
+| **Political (P)**     | Government stability, regulations, tax policy |
+| **Economic (E)**      | Growth rate, inflation, income distribution |
+| **Social/Cultural (S)** | Demographics, education, social mobility |
+| **Technological (T)** | Internet impact, R&D trends, communication costs |
+
+> *Note:* Expanded versions include Legal (L) and Environmental (E) factors, forming **PESTLE/PESTEL**.
+
+#### 2. **Porter’s Five Forces Framework**
+
+Analyzes **micro-environmental** industry structure:
+
+1. **Competitive Rivalry**
+2. **Supplier Power**
+3. **Buyer Power**
+4. **Threat of New Entrants**
+5. **Threat of Substitutes**
+
+This model helps identify competitive pressures and develop responses to strengthen market position.
 
 #### 3. **3C & 4P Analysis**
-- **3C**: Customer, Company, Competitor analysis.
-- **4P**: Product, Price, Place, Promotion strategies.
 
----
+- **3C**: 
+  - **Customer**: Market size, demand hierarchy.
+  - **Company**: Internal/external strengths/weaknesses.
+  - **Competition**: Competitor identification and benchmarking.
+
+- **4P** (Marketing Mix):
+  - **Product**: Design, quality, brand.
+  - **Price**: Pricing strategy, competitor comparison.
+  - **Place**: Distribution channels, logistics.
+  - **Promotion**: Advertising, customer engagement.
 
 ### B) Internal Environment Analysis
 
 #### **McKinsey 7S Framework**
-Used to evaluate internal alignment across seven elements:
-1. **Shared Values**
-2. **Strategy**
-3. **Structure**
-4. **Systems**
-5. **Skills**
-6. **Staff**
-7. **Style**
 
-These elements are interdependent; misalignment can lead to inefficiencies and poor performance.
+Analyzes internal dynamics using seven interrelated elements:
 
----
+1. **Shared Values** – Organizational culture and core beliefs.
+2. **Strategy** – Direction and goals.
+3. **Structure** – Organizational design and roles.
+4. **Systems** – Processes and procedures.
+5. **Staff** – Capabilities and expertise of employees.
+6. **Style** – Leadership and management practices.
+7. **Skills** – Core competencies of the organization.
 
-### C) Consolidated Environment Analysis
+Misalignment among these elements can lead to inefficiencies, so comprehensive management is essential.
+
+### C) Consolidated Internal and External Environment Analysis
 
 #### **SWOT Analysis**
-A matrix-based approach to identify:
-- **Strengths (S)** – Internal advantages.
-- **Weaknesses (W)** – Internal limitations.
-- **Opportunities (O)** – External favorable conditions.
-- **Threats (T)** – External challenges.
 
-##### Strategic Directions from SWOT:
-| Quadrant | Strategy Type       | Description |
-|----------|---------------------|-------------|
-| S + O    | **SO Strategy**     | Leverage strengths to exploit opportunities. |
-| S + T    | **ST Strategy**     | Use strengths to avoid or reduce threats. |
+A matrix-based framework that combines internal and external factors:
+
+| Quadrant | Strategy Type       | Focus |
+|----------|---------------------|-------|
+| S + O    | **SO Strategy**     | Use strengths to exploit opportunities. |
+| S + T    | **ST Strategy**     | Use strengths to mitigate threats. |
 | W + O    | **WO Strategy**     | Overcome weaknesses by leveraging opportunities. |
 | W + T    | **WT Strategy**     | Minimize weaknesses and avoid threats. |
 
-> *Modern Note:* With increased use of **business intelligence**, SWOT analysis is becoming more data-driven and predictive, improving its strategic value.
+- Originally used for marketing strategy but now widely applied across corporate strategy planning.
+- With **business intelligence**, SWOT has evolved into a data-driven, predictive tool, improving strategic accuracy and execution.
 
 #### **BCG Matrix**
-Tool for evaluating product/business portfolios using:
-- **Market Growth Rate** (Y-axis)
-- **Relative Market Share** (X-axis)
 
-Quadrants:
-1. **Stars**: High growth, high share – invest.
-2. **Cash Cows**: Low growth, high share – generate cash.
-3. **Question Marks**: High growth, low share – risky investments.
-4. **Dogs**: Low growth, low share – consider divesting.
+Tool for evaluating product/business portfolios:
 
----
+| Quadrant     | Characteristics |
+|--------------|-----------------|
+| **Stars**    | High growth, high market share – invest. |
+| **Cash Cows** | Low growth, high share – generate cash. |
+| **Question Marks** | High growth, low share – risky investments. |
+| **Dogs**     | Low growth, low share – consider divesting. |
 
-## Case Study: Dell Computers
-
-### SWOT Analysis Example
-- **Strengths**: Direct-to-consumer sales, cost-efficient production.
-- **Weaknesses**: No local dealership relationships.
-- **Opportunities**: Internet as a marketing tool, knowledgeable consumers.
-- **Threats**: Strong brand competitors like IBM and Compaq.
-
-### Strategy Implementation
-Dell capitalized on strengths and opportunities by:
-- Selling directly online.
-- Offering customized computers.
-- Eliminating dependency on dealerships.
-- Neutralizing threats through tailored service and rapid delivery.
+Helps prioritize investments and manage resources effectively.
 
 ---
 
 ## Conclusion
 
-Developing a successful **IT business strategy** requires:
-- Understanding both internal and external environments.
-- Using structured frameworks (PEST, Porter’s Five Forces, 3C/4P, 7S, SWOT, BCG).
-- Integrating IT into every level of the business.
+Developing a successful **IT business strategy** involves:
+
+- Aligning strategic elements (mission, vision, goals) with business needs.
+- Using structured frameworks (PEST, Porter’s Five Forces, 3C/4P, 7S, SWOT, BCG) to analyze both internal and external environments.
+- Integrating IT deeply into all aspects of business operations.
 - Leveraging data and business intelligence for informed decision-making.
 
-This holistic approach enables companies to adapt to change, optimize resources, and maintain or gain competitive advantage in evolving markets.
+This holistic and adaptive approach enables organizations to not only survive but thrive in rapidly changing markets.
