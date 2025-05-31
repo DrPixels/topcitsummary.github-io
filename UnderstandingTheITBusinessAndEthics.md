@@ -859,6 +859,15 @@ There are two primary approaches based on the nature of the project:
 
 These methodologies ensure that Six Sigma initiatives are executed systematically, whether the goal is to create new, high-quality processes or refine existing ones.
 
+### D) Understanding TRIZ
+
+**TRIZ (Theory of Inventive Problem Solving)** is a systematic approach to innovation and problem-solving.
+
+- Provides structured methods for resolving contradictions and generating creative solutions.
+- Helps overcome traditional thinking barriers in process design.
+
+TRIZ encourages innovation by applying proven principles from diverse fields.
+
 ### E) Understanding SERVQUAL
 
 **SERVQUAL** is a model for measuring and improving service quality based on five dimensions:
