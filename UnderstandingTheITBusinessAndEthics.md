@@ -4,7 +4,7 @@
 [Chapter IV - Understanding the Adoption of IT Business](#summary-of-chapter-IV-understanding-the-adoption-of-it-business)  
 [Chapter V - Understanding the IT Business Process](#summary-of-chapter-V-understanding-the-it-business-process)  
 [Chapter VI - Understanding the IT Business and Enterprise Solutions](#summary-of-chapter-VI-understanding-the-it-business-and-enterprise-solutions)  
-[Chapter VII - Understanding the IT Business Performance Evaluation](#summary-chapter-VII-understanding-the-it-business-performance-evaluation)
+[Chapter VII - Understanding the IT Business Performance Evaluation](#summary-of-chapter-VII-understanding-the-it-business-performance-evaluation)
 
 # Summary of 04 The IT Business Value Chain
 
