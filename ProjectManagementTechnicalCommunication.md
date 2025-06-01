@@ -7,7 +7,8 @@
 [Chapter VIII: Project Process and Management: Recent Trends and Major Issues](#summary-of-chapter-VIII-project-process-and-management-recent-trends-and-major-issues)  
 [Chapter IX: Scope Management: Recent Trends and Major Issues](#summary-of-chapter-IX-scope-management-recent-trends-and-major-issues)  
 [Chapter X: Schedule Management: Recent Trends and Major Issues](#summary-of-chapter-X-schedule-management-recent-trends-and-major-issues)  
-[Chapter XI: Cost Management: Recent Trends and Major Issues](#summary-of-chapter-XI-cost-management-recent-trends-and-major-issues)
+[Chapter XI: Cost Management: Recent Trends and Major Issues](#summary-of-chapter-XI-cost-management-recent-trends-and-major-issues)  
+[Chapter XII: Quality Management: Recent Trends and Major Issues](#summary-of-chapter-XII-quality-management-recent-trends-and-major-issues)
 
 # Summary of Chapter I: Business Communication: Concepts, Elements, and Methods
 
@@ -2175,3 +2176,222 @@ Key takeaways:
   - Forecast **EAC, VAC, ETC** to guide future decisions
 
 By applying these principles and techniques systematically, project teams can ensure financial predictability, reduce risk, and enhance accountability in complex IT projects.
+
+---
+
+# Summary of Chapter XII: Quality Management: Recent Trends and Major Issues
+
+---
+
+## 01 Concept of Quality Control
+
+### A) Concept of Software Quality
+
+**Definition of Software Quality**
+- Refers to the characteristics and performance of a software product that meet **user requirements**.
+- Encompasses both **functional and non-functional attributes**, including:
+  - Functionality, reliability, usability
+  - Efficiency, maintainability, portability
+
+Software quality is inherently complex due to its **intangible nature** and dependency on various resources like cost, time, manpower, and tools. It also involves interrelated quality factors that must be managed holistically.
+
+#### ISO/IEC 9126 (now ISO/IEC 25000-2) – Quality Characteristics:
+
+| Quality Characteristic | Subcharacteristics |
+|------------------------|------------------|
+| **Functionality** | Suitability, Accuracy, Interoperability, Compliance, Security |
+| **Reliability** | Maturity, Fault Tolerance, Recoverability |
+| **Usability** | Understandability, Learnability, Operability |
+| **Efficiency** | Time Behavior, Resource Behavior |
+| **Maintainability** | Analyzability, Changeability, Stability, Testability |
+| **Portability** | Adaptability, Installability, Conformance, Replaceability |
+
+This hierarchical model allows for structured evaluation of software quality from user, development, and process perspectives.
+
+---
+
+### B) Concept of Quality Control
+
+**Definition of Quality Control**
+- Involves all techniques and activities used to ensure a product or service meets specified **quality targets** and **user requirements**.
+- Focuses on identifying defects in deliverables and resolving them through corrective actions.
+
+**Key Aspects of Quality Control:**
+- Ensures conformance with defined standards.
+- Identifies and resolves issues during implementation.
+- Uses metrics like **variance analysis**, **corrective action plans**, and **defect tracking**.
+
+Quality control is essential at every project stage—from **analysis** and **design** to **development**, **testing**, and **deployment**—to prevent costly rework and ensure consistent delivery.
+
+---
+
+## 02 Quality Management Process
+
+The quality management process follows three key stages:
+
+### A) Quality Plan
+
+**Purpose**
+- Establishes the overall approach to managing quality throughout the project lifecycle.
+- Defines objectives, processes, roles, and responsibilities.
+
+**Key Components of a Quality Plan:**
+
+| Element | Description |
+|--------|-------------|
+| **Objective** | Clearly defined quality goals aligned with user expectations |
+| **Quality Requirement Specification** | Detailed criteria for acceptable output |
+| **Measurement & Evaluation** | How quality will be assessed and tracked |
+| **Verification & Confirmation Activity** | Activities to validate that deliverables meet requirements |
+| **Corrective Action Activity** | Procedures for addressing quality deviations |
+| **Attachment** | Basis for measurement, reference materials |
+
+A solid quality plan ensures consistency, traceability, and accountability in delivering high-quality software.
+
+---
+
+### B) Quality Assurance
+
+**Concept of Quality Assurance**
+- Involves monitoring quality requirements and ensuring compliance with established standards.
+- Focuses on the **processes** rather than the **product itself**.
+
+**Main Techniques Used:**
+- **Technical Review**: Assess conformity to specifications and change integrity.
+- **Inspection**: Formal defect detection and solution verification.
+- **Walkthrough**: Defect identification and learning tool; often informal and collaborative.
+
+**Participants in Quality Assurance Activities:**
+| Technique | Participants | Output |
+|----------|--------------|--------|
+| **Technical Review** | Developer, Senior Engineer | Technical review report |
+| **Inspection** | Formally documented participants, Moderator | Inspection Report, Defects List |
+| **Walkthrough** | Developer, internal reviewers | Review Report, Lessons learned |
+
+Quality assurance is not just about finding errors but also about ensuring that quality standards are applied consistently across the organization.
+
+---
+
+### C) Quality Control
+
+**Definition of Quality Control**
+- Refers to the **recording and monitoring of quality activity results** to ensure that deliverables meet required standards.
+
+**Key Objectives:**
+- Detect and correct deviations from quality targets.
+- Ensure final deliverables satisfy functional and non-functional requirements.
+- Provide feedback for continuous improvement.
+
+#### Common Tools and Techniques:
+These include the **7 Basic Quality Tools** (7QC):
+1. **Pareto Chart** – Prioritize major issues by frequency or impact.
+2. **Cause-and-Effect Diagram (Fishbone)** – Identify root causes of defects.
+3. **Control Chart** – Monitor process stability over time.
+4. **Scatter Diagram** – Explore relationships between variables.
+5. **Flowchart** – Visualize processes for clarity and improvement.
+6. **Check Sheet** – Record data systematically for further analysis.
+7. **Histogram** – Show frequency distributions of data.
+
+These tools help identify patterns, track progress, and support decision-making in quality control.
+
+---
+
+## 03 Quality Evaluation Perspective and Quality Standard
+
+### A) Quality Evaluation Perspective
+
+There are three main perspectives for evaluating software quality:
+
+| Perspective | Description |
+|-------------|-------------|
+| **Product Quality** | Evaluates the **functionality and reliability** of the delivered software. <br> - Standards: **ISO/IEC 9126**, **Six Sigma** |
+| **Process Quality** | Assesses whether processes are well-defined, followed, and optimized. <br> - Standards: **ISO 9000**, **ISO/IEC 12207**, **CMMI** |
+| **Project Quality** | Evaluates the effectiveness of the project team in meeting quality objectives within schedule and budget constraints. |
+
+Each perspective provides insight into different aspects of quality, ensuring a comprehensive view of both outputs and methods.
+
+---
+
+### B) Quality Standards
+
+Several international standards guide quality management and evaluation in software projects:
+
+#### 1. **ISO/IEC 9126 (now ISO/IEC 25000-2)**
+- Provides a framework for evaluating software quality based on six main characteristics and their subcharacteristics.
+- Divided into four parts:
+  - **ISO/IEC 9126-1**: Internal and external quality model
+  - **ISO/IEC 9126-2**: External metrics (used by managers/users)
+  - **ISO/IEC 9126-3**: Use in purchasing, requirements, and development
+  - **ISO/IEC 9126-4**: Measurement and evaluation models
+
+#### 2. **ISO/IEC 12207 – Software Lifecycle Process Standard**
+- Defines standardized processes for the full **software development lifecycle (SDLC)**.
+- Covers acquisition, supply, development, operation, and maintenance.
+- Provides a common language and framework for software practitioners.
+
+#### 3. **CMMI (Capability Maturity Model Integration)**
+- A process improvement model that evaluates an organization’s maturity level.
+- Helps organizations improve processes related to software engineering and management.
+- Widely used in global IT environments for benchmarking and certification.
+
+#### 4. **Six Sigma**
+- Focuses on reducing variability and eliminating defects using statistical analysis.
+- Utilizes the **DMAIC** methodology:
+  - Define → Measure → Analyze → Improve → Control
+
+#### 5. **ISO 9000 Series**
+- General standard for **quality management systems** applicable to any industry.
+- Emphasizes customer satisfaction, leadership involvement, and continual improvement.
+
+#### 6. **SPICE (ISO/IEC 15504)**
+- Evaluates software process maturity and improvement capability.
+- Based on two dimensions:
+  - **Process Reference Model (PRM)**
+  - **Process Assessment Model**
+
+SPICE supports objective assessment and benchmarking of organizational capabilities.
+
+---
+
+## Additional Information
+
+### The PDCA Cycle in Quality Management
+
+Quality management follows the **Plan-Do-Check-Act (PDCA)** cycle:
+
+| Stage | Description |
+|-------|-------------|
+| **Plan** | Define quality objectives and how to achieve them |
+| **Do** | Implement the quality plan |
+| **Check** | Evaluate actual results against planned outcomes |
+| **Act** | Take corrective actions and refine processes for future cycles |
+
+This continuous loop drives ongoing quality improvement and adaptability.
+
+---
+
+### Case Study: Project Quality Assurance Activities
+
+In real-world projects, quality assurance includes:
+- **Verification and validation** at each stage
+- **Corrective action planning** for identified defects
+- **Risk management** to mitigate potential issues
+- **Issue management** to resolve problems during execution
+
+These activities ensure that quality is maintained throughout the project lifecycle, not just at the end.
+
+---
+
+## Conclusion
+
+**Quality management** is a critical component of successful IT business operations. It ensures that software products meet **user expectations**, processes are **well-defined and controlled**, and project teams operate **within set standards and timelines**.
+
+Key takeaways:
+- Software quality is multi-dimensional, involving functionality, reliability, usability, efficiency, maintainability, and portability.
+- Quality management includes **planning**, **assurance**, and **control**, following the **PDCA cycle**.
+- **Quality assurance** focuses on process-level quality via reviews, inspections, and audits.
+- **Quality control** deals with detecting and correcting defects in deliverables using tools like **Pareto charts**, **fishbone diagrams**, and **control charts**.
+- Internationally recognized standards such as **ISO/IEC 25000-2**, **ISO/IEC 12207**, **CMMI**, and **Six Sigma** provide frameworks for measuring and improving quality.
+- Evaluation should consider **product**, **process**, and **project quality** perspectives to ensure comprehensive coverage.
+
+By integrating these practices, organizations can build **high-quality software**, reduce rework, and enhance **customer satisfaction and trust**.
