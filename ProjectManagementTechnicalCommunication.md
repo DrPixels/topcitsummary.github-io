@@ -3,7 +3,8 @@
 [Chapter III: Business Document Writing Techniques](#summary-of-chapter-III-business-document-writing-techniques)  
 [Chapter IV: How to Write Technical Documents](#summary-of-chapter-IV-how-to-write-technical-documents)  
 [Chapter VI: Presentation: Recent Trends and Major Issues](#summary-of-chapter-VI-presentation-recent-trends-and-major-issues)  
-[Chapter VII: Understanding of Project: Recent Trends and Major Issues](#summary-of-chapter-VII-understanding-of-project-recent-trends-and-major-issues)
+[Chapter VII: Understanding of Project: Recent Trends and Major Issues](#summary-of-chapter-VII-understanding-of-project-recent-trends-and-major-issues)  
+[Chapter VIII: Project Process and Management: Recent Trends and Major Issues](#summary-of-chapter-VIII-project-process-and-management-recent-trends-and-major-issues)
 
 # Summary of Chapter I: Business Communication: Concepts, Elements, and Methods
 
@@ -1358,3 +1359,165 @@ Key takeaways:
 
 By aligning these elements, organizations can better navigate the complexities of project execution and achieve desired results efficiently and effectively.
 
+---
+
+# Summary of Chapter VIII: Project Process and Management: Recent Trends and Major Issues
+
+---
+
+## 01 Project Life Cycle
+
+### A) Project Life Cycle
+
+The **project life cycle** defines the structured sequence of phases a project goes through from initiation to closure.
+
+#### Key Phases:
+| Phase | Description |
+|-------|-------------|
+| **Initiating** | Formal project start; identify stakeholders, appoint the project manager, develop the project charter. |
+| **Planning** | Define scope, schedule, budget, resources, risks, and deliverables. |
+| **Executing** | Carry out tasks defined in the management plan to produce deliverables. |
+| **Monitoring & Controlling** | Track progress, manage changes, ensure quality, and control deviations. |
+| **Closing** | Finalize all activities, handover deliverables, release resources, and document lessons learned. |
+
+These five phases — initiating, planning, executing, monitoring/controlling, and closing — are collectively known as the **five process groups** in PMBOK.
+
+> Note: While initiating, planning, executing, and closing processes typically occur in sequence, the **monitoring and controlling process** runs throughout the entire life cycle.
+
+#### Types of Project Life Cycles:
+
+| Type | Description |
+|------|-------------|
+| **Predictive (Waterfall)** | Fully planned upfront; execution follows the plan sequentially. Best for stable, well-defined projects. |
+| **Iterative** | Delivers output through repeated cycles with improvements after each iteration. |
+| **Incremental** | Scope is divided into multiple phases executed in parallel or overlapped. |
+| **Evolutionary** | Iterative and incremental approach where requirements evolve over time. Commonly used in Agile environments. |
+
+#### Example of Evolutionary Life Cycle:
+Increment 1 Increment 2 Increment 3 Increment N  
+[Plan] [Plan] [Plan] [Plan]  
+[Execute] [Execute] [Execute] [Execute]  
+[Deliver] [Deliver] [Deliver] [Deliver]  
+
+This model allows for continuous refinement and delivery based on user feedback and changing needs.
+
+---
+
+### B) Project Planning and Execution
+
+Effective project management requires **detailed planning**, especially during the early stages, to avoid costly mistakes later.
+
+#### Importance of Early Planning:
+- The **Project Cost/Efforts Curve** shows that **early investment in planning reduces overall risk and rework**.
+- Projects that skip or rush the planning phase often face delays, cost overruns, and misaligned deliverables.
+
+#### Key Activities in Planning:
+- Define clear project goals and success criteria.
+- Identify stakeholders and secure approvals.
+- Develop detailed timelines, budgets, and resource plans.
+- Assess risks and define mitigation strategies.
+- Establish communication and reporting mechanisms.
+
+#### Execution Considerations:
+- Align team members with roles and responsibilities.
+- Ensure stakeholder engagement throughout the lifecycle.
+- Use tools like **Gantt charts**, **Kanban boards**, and **burndown charts** for tracking progress.
+- Maintain documentation such as:
+  - Project Charter
+  - Requirements Specification
+  - Risk Register
+  - Change Log
+  - Status Reports
+
+Proper planning enables smooth execution and enhances adaptability when changes arise.
+
+---
+
+## 02 Project Management Methodology
+
+### A) Project Management Methodology
+
+A **project management methodology** provides a standardized framework for managing projects effectively.
+
+#### Popular Methodologies:
+| Framework | Description |
+|-----------|-------------|
+| **PMBOK (Project Management Body of Knowledge)** | Published by PMI, it includes 5 process groups, 10 knowledge areas, and 49 processes. It's widely recognized and used globally. |
+| **ISO 21500** | International standard offering guidance on project management principles and practices. |
+| **PRINCE2** | Focuses on practical application, emphasizing governance, documentation, and role clarity. |
+
+These methodologies help structure the project life cycle and define inputs, tools, and outputs at each stage to achieve goals using limited resources.
+
+---
+
+### B) Agile Methodology
+
+**Agile** is a modern, flexible approach to project management, particularly suited for dynamic environments like software development.
+
+#### Key Characteristics:
+- **Iterative Development**: Deliver value in small increments called **sprints** or **iterations**.
+- **Collaboration-Focused**: Emphasizes teamwork, customer involvement, and adaptive leadership.
+- **Continuous Feedback**: Uses daily stand-ups (scrum), sprint reviews, and retrospectives to improve outcomes.
+
+#### Agile Core Principles:
+- Responding to change over following a fixed plan.
+- Working software (or product) over comprehensive documentation.
+- Customer collaboration over contract negotiation.
+- Individuals and interactions over processes and tools.
+
+#### Common Agile Techniques:
+- **Scrum**: Organized around sprints, backlogs, and daily scrum meetings.
+- **Kanban**: Visual workflow management using boards and cards.
+- **Lean**: Eliminates waste and focuses on delivering value efficiently.
+
+Agile is especially effective in environments where **requirements change frequently**, and **speed-to-market** is critical.
+
+---
+
+### C) Project Management Area
+
+PMBOK and ISO 21500 organize project management into **ten key knowledge areas**, which guide best practices across the project lifecycle.
+
+#### Ten Knowledge Areas:
+| Knowledge Area | Purpose |
+|----------------|---------|
+| **Project Integration Management** | Coordinates all elements of the project to ensure alignment and consistency. |
+| **Project Scope Management** | Ensures the project includes all required work and nothing more. |
+| **Project Schedule Management** | Defines activity sequences, durations, and dependencies to meet deadlines. |
+| **Project Cost Management** | Plans, estimates, budgets, and controls costs. |
+| **Project Quality Management** | Ensures deliverables meet acceptance criteria and standards. |
+| **Project Resource Management** | Acquires, manages, and utilizes project resources effectively. |
+| **Project Communications Management** | Ensures timely and appropriate generation, collection, distribution, and storage of information. |
+| **Project Risk Management** | Identifies, analyzes, and responds to project risks. |
+| **Project Procurement Management** | Manages purchasing and acquisition from external suppliers. |
+| **Project Stakeholder Management** | Engages and manages stakeholders to maintain support and address concerns. |
+
+Each area plays a crucial role in ensuring project success and must be managed holistically.
+
+#### Process Groups Across the Lifecycle:
+
+| Process Group | Frequency of Use |
+|---------------|------------------|
+| Initiating | Once per project or phase |
+| Planning | Once per project or phase |
+| Executing | Continuously throughout the life cycle |
+| Monitoring & Controlling | Throughout the life cycle |
+| Closing | Once per project or phase |
+
+This ensures that while most phases are sequential, **monitoring and controlling** is ongoing and iterative.
+
+---
+
+## Conclusion
+
+Understanding the **project life cycle** and selecting the right **management methodology** are essential for successful project execution.
+
+Key takeaways:
+- The **project life cycle** consists of five core phases: initiating, planning, executing, monitoring/controlling, and closing.
+- There are various types of life cycles — **predictive**, **iterative**, **incremental**, and **evolutionary** — each suitable for different project contexts.
+- Proper **planning at the beginning** significantly reduces risks and improves predictability.
+- **PMBOK**, **ISO 21500**, and **PRINCE2** provide structured frameworks for managing complex projects.
+- **Agile methodology** offers flexibility and responsiveness, ideal for fast-changing environments.
+- The ten **knowledge areas** of PMBOK cover all aspects of project management and ensure comprehensive oversight.
+
+By applying these concepts thoughtfully, organizations can better manage their projects, reduce failures, and deliver value efficiently in an increasingly complex business environment.
