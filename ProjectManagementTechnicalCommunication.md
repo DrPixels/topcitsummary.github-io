@@ -6,7 +6,8 @@
 [Chapter VII: Understanding of Project: Recent Trends and Major Issues](#summary-of-chapter-VII-understanding-of-project-recent-trends-and-major-issues)  
 [Chapter VIII: Project Process and Management: Recent Trends and Major Issues](#summary-of-chapter-VIII-project-process-and-management-recent-trends-and-major-issues)  
 [Chapter IX: Scope Management: Recent Trends and Major Issues](#summary-of-chapter-IX-scope-management-recent-trends-and-major-issues)  
-[Chapter X: Schedule Management: Recent Trends and Major Issues](#summary-of-chapter-X-schedule-management-recent-trends-and-major-issues)
+[Chapter X: Schedule Management: Recent Trends and Major Issues](#summary-of-chapter-X-schedule-management-recent-trends-and-major-issues)  
+[Chapter XI: Cost Management: Recent Trends and Major Issues](#summary-of-chapter-XI-cost-management-recent-trends-and-major-issues)
 
 # Summary of Chapter I: Business Communication: Concepts, Elements, and Methods
 
@@ -1896,3 +1897,281 @@ Key takeaways:
 - Employ **compression techniques** like **crashing** (adding resources) and **fast tracking** (overlapping activities) when time pressures arise.
 
 By mastering these concepts and techniques, project managers can deliver projects more predictably, communicate clearly with stakeholders, and adapt to changes efficiently.
+
+---
+
+# Summary of Chapter XI: Cost Management: Recent Trends and Major Issues
+
+---
+
+## 01 Concept of Cost Management
+
+### A) Concept of Cost
+
+**Definition of Cost**
+- **Cost** refers to the monetary value of resources invested in producing a product or service.
+- It is determined by the supplier’s production capacity, not market price.
+- Often distinguished from **price**, which is negotiated between client and supplier based on business judgment.
+
+**Note**: While cost can be seen as an expense, they are slightly different:
+- **Cost** relates to profit/loss per product/service (e.g., Product Cost)
+- **Expense** relates to time-based financial outlays (e.g., Period Cost)
+
+---
+
+### B) Importance of Cost Management
+
+**Why Cost Management Matters**
+- Projects undergo formal approval for resource allocation and budget.
+- If the budget is exceeded due to poor cost management, it must be reported to stakeholders like the project sponsor or management board.
+- Overruns often result from mismanagement of scope or schedule — if scope expands or schedules slip, additional resources must be allocated.
+
+**Key Insight**:
+> Good cost management means accurate initial estimates combined with effective scope and schedule control throughout the project lifecycle.
+
+---
+
+### C) Concept of Cost Management
+
+**Project Cost Management** involves:
+- Planning, estimating, budgeting, and controlling costs
+- Ensuring that the project stays within the approved budget despite changes and risks.
+
+It includes four key processes:
+1. **Cost Management Planning**
+2. **Cost Estimation**
+3. **Budgeting**
+4. **Cost Control**
+
+These activities help organizations manage limited resources effectively while delivering value within financial constraints.
+
+---
+
+## 02 Cost Management Process
+
+### A) Cost Management Planning
+
+This stage establishes how cost will be managed throughout the project life cycle.
+
+**Key Activities Include:**
+- Defining estimation techniques and tools to be used
+- Identifying roles and responsibilities for cost tracking
+- Setting rules for measurement, reporting frequency, and thresholds for variance analysis
+- Creating cost baselines aligned with the project's WBS
+
+A solid plan ensures consistency and transparency in managing project finances.
+
+---
+
+### B) Cost Estimation
+
+Cost estimation involves predicting the monetary resources needed to complete project activities.
+
+#### Common Estimation Techniques:
+
+| Technique | Description |
+|-----------|-------------|
+| **Analogous Estimating** | Uses historical data from similar past projects. Quick but less accurate. |
+| **Bottom-up Estimating** | Estimates at the lowest level (work package) and aggregates upwards. Most accurate. |
+| **Parametric Estimating** | Uses statistical models and unit rates (e.g., $ per line of code). |
+| **Expert Judgment** | Relies on expert opinion or industry benchmarks. |
+| **Three-point Estimating** | Uses optimistic, pessimistic, and most likely values to calculate expected cost (e.g., PERT formula). |
+
+#### Additional Techniques Specific to Software Development:
+| Method | Description |
+|--------|-------------|
+| **Function Point (FP)** | Measures software functionality from user perspective; internationally standardized (ISO/IEC 14143). |
+| **Man/Month (M/M)** | Measures labor effort in terms of person-months; often used alongside FP for verification. |
+| **COCOMO / COCOMO 2** | Regression-based models that estimate cost using parameters like development period, team size, and complexity factors. |
+
+Each method has strengths depending on project type, available data, and required accuracy.
+
+---
+
+### C) Budgeting
+
+Budgeting consolidates individual activity and work package cost estimates into an approved **cost baseline**.
+
+**Key Steps:**
+1. Aggregate all estimated costs.
+2. Add **contingency reserves** for known risks (included in the cost baseline).
+3. Define **management reserves** for unknown risks (not included in baseline, controlled separately).
+
+The final **project budget** = Cost Baseline + Management Reserves
+
+**Purpose:**
+- Provide a financial roadmap for the project
+- Enable monitoring and control through comparison with actual spending
+
+---
+
+### D) Cost Control
+
+Cost control is the process of monitoring the status of the project to update the budget and manage changes to the cost baseline.
+
+**Main Objectives:**
+- Prevent cost overruns
+- Manage change requests effectively
+- Ensure that project remains within approved budget
+
+**Key Tools:**
+- Earned Value Management (EVM)
+- Variance Analysis
+- Forecasting (EAC, ETC)
+
+Proactive cost control helps maintain financial discipline and stakeholder confidence.
+
+---
+
+## 03 Cost Estimation Techniques
+
+### A) Function Point (FP)
+
+**Overview**
+- **Function Point Analysis (FPA)** measures software scale from the user’s functional perspective.
+- Internationally recognized standard under ISO/IEC 14143.
+
+**Types of FPA:**
+| Type | Use Case |
+|------|----------|
+| **Estimated FPA** | Used during planning phase; based on weighted average complexity rating |
+| **Detailed FPA** | Used after design phase; assigns High/Average/Low complexity ratings |
+
+**Advantages:**
+- Independent of technology stack
+- Useful for comparing systems
+- Widely adopted in public sector projects
+
+**Application Example**:
+- In South Korea, FPA is mandatory for government IT projects post-design phase.
+
+---
+
+### B) Man/Month (M/M)
+
+**Definition**
+- **Man/Month (M/M)** measures labor effort in terms of full-time equivalent work per month.
+- Helps quantify human resource requirements and estimate labor costs.
+
+**Use Cases:**
+- Complements Function Point for cross-validation
+- Used when project details are not yet finalized
+- Applied during feasibility and early planning stages
+
+**Strengths:**
+- Easy to understand and apply
+- Effective when historical data is available
+
+---
+
+### C) COCOMO (Constructive Cost Model)
+
+**Overview**
+- A regression model that calculates software development cost based on input variables like:
+  - Size of system (lines of code, modules)
+  - Team experience
+  - Development environment
+
+**COCOMO Types**:
+| Type | Characteristics |
+|------|------------------|
+| **Basic COCOMO** | Simple model for small projects |
+| **Intermediate COCOMO** | Includes cost drivers for better accuracy |
+| **Detailed COCOMO** | Breaks down phases and applies detailed coefficients |
+
+**Formula (Simplified):**  
+Effort = a × (KLOC)^b  
+People Required = Effort / Development Time  
+Where `a` and `b` vary by project type (Organic, Semi-Detached, Embedded).
+
+---
+
+### D) COCOMO 2 (Constructive Cost Model 2)
+
+**Improvements over COCOMO**
+- Incorporates modern practices such as reuse, off-the-shelf components, and agile methods.
+- Considers software architecture, team dynamics, and development environment.
+
+**Phases of Estimation:**
+| Phase | Description |
+|-------|-------------|
+| **Application Composition Model** | Used in early prototyping or when reusing components |
+| **Early Design Model** | Applied after architectural design begins |
+| **Post-Architecture Model** | Most detailed; used after full system design and SLOC is defined |
+
+COCOMO 2 offers more flexibility and realism for contemporary software development environments.
+
+---
+
+## 04 Cost Management Technique – Earned Value Management
+
+### A) Concept of Earned Value
+
+**What is Earned Value?**
+- “Earned Value” is the **budgeted cost of work performed (BCWP)**.
+- It quantifies how much value has been delivered at any point in the project.
+
+**Core Terms in EVM:**
+| Term | Full Form | Meaning |
+|------|-----------|---------|
+| **PV** | Planned Value | Budgeted cost of work scheduled |
+| **EV** | Earned Value | Budgeted cost of work actually completed |
+| **AC** | Actual Cost | Real money spent so far |
+
+Earned Value provides a **quantitative measure of progress**, enabling proactive decision-making.
+
+---
+
+### B) Earned Value Management
+
+**What is EVM?**
+- **Earned Value Management (EVM)** is a technique that integrates **schedule and cost performance** to assess project health and forecast outcomes.
+
+#### Key Performance Indicators in EVM:
+
+| Metric | Formula | Interpretation |
+|--------|---------|----------------|
+| **Schedule Variance (SV)** | EV - PV | SV > 0 = ahead of schedule; SV < 0 = behind schedule |
+| **Schedule Performance Index (SPI)** | EV / PV | SPI > 1 = efficient progress; SPI < 1 = delays |
+| **Cost Variance (CV)** | EV - AC | CV > 0 = under budget; CV < 0 = over budget |
+| **Cost Performance Index (CPI)** | EV / AC | CPI > 1 = cost-efficient; CPI < 1 = cost overrun |
+
+#### Forecasting Metrics:
+
+| Metric | Formula | Purpose |
+|--------|---------|---------|
+| **Estimate At Completion (EAC)** | AC + Estimate To Complete (ETC) | Predicts total project cost at completion |
+| **Variance At Completion (VAC)** | BAC - EAC | Forecasts final budget deviation |
+| **Estimate To Complete (ETC)** | BAC - EV | How much more will be spent to finish remaining work |
+| *Alternate ETC Calculation* | (BAC - EV) / CPI | Adjusts for current cost performance |
+
+#### Example Scenario:
+As of August 1:
+- **Planned Value (PV)** = 5 days of planned work
+- **Earned Value (EV)** = 4 days worth of completed work (80% progress)
+- **Actual Cost (AC)** = 6 days worth of expenditure
+
+Results:
+- **SV** = -1 day → Behind schedule
+- **CV** = -2 days → Over budget
+- **SPI** = 0.8 → Slower than planned
+- **CPI** = 0.67 → Poor cost efficiency
+
+This analysis allows project managers to adjust strategies and improve performance mid-project.
+
+---
+
+## Conclusion
+
+Effective **cost management** is essential for delivering projects within budget and maintaining stakeholder trust.
+
+Key takeaways:
+- Understand the difference between **cost** (internal resource investment) and **price** (external negotiation).
+- Follow the **four core cost management processes**: planning, estimation, budgeting, and control.
+- Use estimation techniques like **Function Point**, **Man/Month**, and **COCOMO 2** to build realistic cost baselines.
+- Implement **Earned Value Management (EVM)** to monitor and forecast performance:
+  - Track **PV, EV, AC**
+  - Calculate **SV, SPI, CV, CPI**
+  - Forecast **EAC, VAC, ETC** to guide future decisions
+
+By applying these principles and techniques systematically, project teams can ensure financial predictability, reduce risk, and enhance accountability in complex IT projects.
