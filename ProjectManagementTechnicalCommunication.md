@@ -2,7 +2,7 @@
 [Chapter II: Business Problem Solving Techniques](#summary-of-chapter-II-business-problem-solving-techniques)  
 [Chapter III: Business Document Writing Techniques](#summary-of-chapter-III-business-document-writing-techniques)  
 [Chapter IV: How to Write Technical Documents](#summary-of-chapter-IV-how-to-write-technical-documents)  
-[Chapter VI: Presentation: Recent Trends and Major Issues](#summary-of-chapter-VI-presentation-recent-trends-and-major-issues)
+[Chapter VI: Presentation: Recent Trends and Major Issues](#summary-of-chapter-VI-presentation-recent-trends-and-major-issues)  
 [Chapter VII: Understanding of Project: Recent Trends and Major Issues](#summary-of-chapter-VII-understanding-of-project-recent-trends-and-major-issues)
 
 # Summary of Chapter I: Business Communication: Concepts, Elements, and Methods
