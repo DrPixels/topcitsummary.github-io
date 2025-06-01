@@ -4,7 +4,8 @@
 [Chapter IV: How to Write Technical Documents](#summary-of-chapter-IV-how-to-write-technical-documents)  
 [Chapter VI: Presentation: Recent Trends and Major Issues](#summary-of-chapter-VI-presentation-recent-trends-and-major-issues)  
 [Chapter VII: Understanding of Project: Recent Trends and Major Issues](#summary-of-chapter-VII-understanding-of-project-recent-trends-and-major-issues)  
-[Chapter VIII: Project Process and Management: Recent Trends and Major Issues](#summary-of-chapter-VIII-project-process-and-management-recent-trends-and-major-issues)
+[Chapter VIII: Project Process and Management: Recent Trends and Major Issues](#summary-of-chapter-VIII-project-process-and-management-recent-trends-and-major-issues)  
+[Chapter IX: Scope Management: Recent Trends and Major Issues](#summary-of-chapter-IX-scope-management-recent-trends-and-major-issues)
 
 # Summary of Chapter I: Business Communication: Concepts, Elements, and Methods
 
@@ -1521,3 +1522,171 @@ Key takeaways:
 - The ten **knowledge areas** of PMBOK cover all aspects of project management and ensure comprehensive oversight.
 
 By applying these concepts thoughtfully, organizations can better manage their projects, reduce failures, and deliver value efficiently in an increasingly complex business environment.
+
+---
+
+# Summary of Chapter IX: Scope Management: Recent Trends and Major Issues
+
+---
+
+## 01 Concept and Process of Scope Management
+
+### A) Concept of Scope Management
+
+**Definition**  
+Scope management is a **critical knowledge area in project management**, focusing on defining and controlling what is included (and excluded) in a project. It ensures that the project delivers all required functionalities and work, and nothing more.
+
+**Key Concepts**:
+- **Project Scope**: Refers to the **work required** to deliver a product, service, or result.
+- **Product Scope**: Defines the **features and functions** of the final deliverable.
+
+> The success of a project — especially one that is unique, temporary, and goal-driven — depends heavily on clearly defined scope boundaries.
+
+**Purpose of Scope Management**:
+- Ensure that only necessary work is performed.
+- Prevent **scope creep** — uncontrolled changes or additions to project scope.
+- Enable better planning, execution, and control of schedule, cost, and quality.
+
+A project manager must clarify and define the scope early to avoid unnecessary work, even if requested by clients, and ensure alignment with project goals.
+
+---
+
+### B) Scope Management Process
+
+The scope management process follows a structured sequence:
+
+| Stage | Description |
+|-------|-------------|
+| **Scope Management Planning** | Develops a detailed plan for how scope will be defined, validated, and controlled throughout the project lifecycle. |
+| **Requirements Collection** | Gathers stakeholder needs through interviews, surveys, document analysis, prototyping, and facilitated sessions. |
+| **Scope Definition** | Develops a detailed project scope statement that includes deliverables, constraints, and acceptance criteria. |
+| **Work Breakdown Structure (WBS) Formation** | Decomposes deliverables into smaller, manageable components called **work packages**. |
+| **Scope Validation** | Confirms with stakeholders that the deliverables meet agreed-upon requirements (via inspection, walkthrough, etc.). |
+| **Scope Control** | Monitors the status of the project and product scope, managing changes through formal procedures like the Change Control Board (CCB). |
+
+#### Key Principles of Effective Scope Management:
+- **Complete Scope**: No missing, excessive, or overlapping parts.
+- **Agreed-upon Scope**: All stakeholders must reach consensus before execution begins to prevent disputes during implementation.
+- **Manageable Scope**: The scope must be broken down into estimable units (e.g., work packages of ~80 hours each), with clear ownership and performance indicators.
+
+This structured approach ensures clarity, reduces ambiguity, and supports successful delivery.
+
+---
+
+## 02 Scope Management Technique
+
+### A) Work Breakdown Structure (WBS)
+
+**Concept of WBS**
+- A **hierarchical decomposition** of the total scope of work into smaller, more manageable components.
+- Each subtask or deliverable is called a **work package**, typically designed to take no more than 80 hours (~2 weeks) to complete.
+
+**Importance of WBS**:
+- Serves as the foundation for **schedule**, **cost**, and **quality management**.
+- Helps identify missing tasks, manage dependencies, and communicate progress transparently to stakeholders.
+- Acts as a key tool for handling **scope changes** and tracking their impact across the project.
+
+> Despite common misconceptions, WBS is part of **scope management**, not schedule management — though it's often used later in scheduling and budgeting.
+
+---
+
+#### 1. Structure of WBS
+
+WBS is usually represented as a **tree diagram**, showing parent-child relationships for deliverables and tasks.
+Design  
+1.1 UI Design  
+1.2 Database Design  
+Development  
+2.1 Frontend  
+2.2 Backend  
+Testing  
+3.1 Unit Testing  
+3.2 Integration Testing  
+Deployment  
+
+This structure allows for intuitive understanding and control of the entire project scope.
+
+---
+
+#### 2. Components of WBS
+
+| Component | Description |
+|-----------|-------------|
+| **Work Package** | Lowest-level component containing specific deliverables or tasks. |
+| **Code of Account** | Unique identifier assigned to each WBS element for tracking and integration with other systems. |
+| **WBS Dictionary** | Provides detailed descriptions of each WBS element, including deliverables, responsible person, and milestones. |
+| **Responsibility Assignment Matrix (RAM)** | Maps roles and responsibilities to each WBS component (e.g., RACI matrix). |
+
+These components help organize and manage scope effectively, ensuring traceability and accountability.
+
+---
+
+#### 3. How to Create a Work Breakdown Structure (WBS)
+
+Creating WBS involves the following principles:
+
+| Principle | Explanation |
+|----------|-------------|
+| **Deliverable-based** | Focuses on tangible outputs rather than activities. |
+| **Manageable** | Work packages should be small enough to estimate time and cost accurately (around 80 hours). |
+| **Detailed Segmentation** | Ensures completeness by decomposing until each item is actionable and measurable. |
+| **Hierarchical Representation** | Organizes tasks in a top-down manner for clarity and logical flow. |
+
+##### Steps to Build WBS:
+1. **Define Deliverables**: Based on scope statement and stakeholder inputs.
+2. **Decompose Deliverables**: Break high-level deliverables into smaller components.
+3. **Assign Codes**: Use code of accounts for identification and tracking.
+4. **Create WBS Dictionary**: Define each component’s purpose, owner, and metrics.
+5. **Validate with Stakeholders**: Confirm completeness and accuracy with team and clients.
+
+This method ensures that every aspect of the project is accounted for and aligned with the original scope.
+
+---
+
+#### 4. Techniques for Collecting Requirements
+
+Requirements gathering is foundational to scope definition. Common techniques include:
+
+| Technique | Description |
+|-----------|-------------|
+| **Interviews** | One-on-one or group discussions to extract stakeholder expectations. |
+| **Prototyping** | Rapid creation of mockups or early versions to validate ideas with users. |
+| **Facilitated Meetings** | Structured workshops involving key stakeholders to define requirements collectively. |
+| **Document Analysis** | Review of existing documentation (business rules, system specs, training materials) to uncover hidden requirements. |
+
+Accurate requirement collection prevents misalignment and costly rework later in the project.
+
+---
+
+#### 5. Importance of Scope Validation and Control
+
+Once the scope is defined and WBS created, two critical processes follow:
+
+- **Scope Validation**: Formal acceptance of the project scope by stakeholders.
+  - Conducted via **inspection**, **walkthrough**, or **peer review**.
+  - Outputs include approved deliverables and documented validation results.
+
+- **Scope Control**: Ongoing monitoring of scope changes and their impacts.
+  - Ensures that any change request goes through a formal **Change Control Board (CCB)** approval process.
+  - Closely linked to **schedule**, **cost**, and **quality control**.
+
+Effective scope control helps manage:
+- **Cost overruns**
+- **Schedule delays**
+- **Stakeholder dissatisfaction**
+
+---
+
+## Conclusion
+
+**Scope management** is one of the most crucial aspects of project management, directly impacting the success or failure of a project.
+
+Key takeaways:
+- Clearly distinguish between **project scope** (WHAT needs to be done) and **product scope** (WHAT the product should do).
+- Follow the six-stage **scope management process** from planning to control to maintain consistency.
+- Use the **Work Breakdown Structure (WBS)** as the central artifact for organizing and managing scope.
+- Ensure WBS is **deliverable-based**, **manageable**, and hierarchically structured.
+- Apply multiple **requirement-gathering techniques** to build accurate scope statements.
+- Validate and control scope rigorously to avoid scope creep and maintain project stability.
+
+By mastering these concepts, project managers can ensure clarity, reduce risk, and align deliverables with stakeholder expectations.
