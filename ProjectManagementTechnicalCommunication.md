@@ -8,7 +8,8 @@
 [Chapter IX: Scope Management: Recent Trends and Major Issues](#summary-of-chapter-IX-scope-management-recent-trends-and-major-issues)  
 [Chapter X: Schedule Management: Recent Trends and Major Issues](#summary-of-chapter-X-schedule-management-recent-trends-and-major-issues)  
 [Chapter XI: Cost Management: Recent Trends and Major Issues](#summary-of-chapter-XI-cost-management-recent-trends-and-major-issues)  
-[Chapter XII: Quality Management: Recent Trends and Major Issues](#summary-of-chapter-XII-quality-management-recent-trends-and-major-issues)
+[Chapter XII: Quality Management: Recent Trends and Major Issues](#summary-of-chapter-XII-quality-management-recent-trends-and-major-issues)  
+[Chapter XIII: Risk Management: Recent Trends and Major Issues](#summary-of-chapter-XIII-risk-management-recent-trends-and-major-issues)
 
 # Summary of Chapter I: Business Communication: Concepts, Elements, and Methods
 
@@ -2395,3 +2396,226 @@ Key takeaways:
 - Evaluation should consider **product**, **process**, and **project quality** perspectives to ensure comprehensive coverage.
 
 By integrating these practices, organizations can build **high-quality software**, reduce rework, and enhance **customer satisfaction and trust**.
+
+---
+
+# Summary of Chapter XIII: Risk Management: Recent Trends and Major Issues
+
+---
+
+## 01 Concept of Risk Management
+
+**Definition of Risk**
+- A **risk** is an **uncertain event or condition** that, if it occurs, can have a **positive or negative effect** on one or more project objectives such as scope, schedule, cost, and quality.
+
+**Key Concepts**
+- Risks are not limited to **negative outcomes (threats)** but also include **positive outcomes (opportunities)**.
+- Effective risk management involves identifying both types and responding accordingly.
+
+**Purpose of Risk Management**
+- To **identify, assess, and respond** to potential issues before they become actual problems.
+- To **minimize threats** and **maximize opportunities** for successful project delivery.
+- To support **strategic decision-making**, improve **predictability**, and increase the likelihood of achieving goals.
+
+**Importance in Modern Business**
+- In today’s dynamic business environment, **systematic risk management** is essential for sustainable growth.
+- It must be managed at the **enterprise level**, not just within individual departments.
+- Requires integration with policies, processes, roles, systems, and culture.
+
+> “The survival of a company depends on potential large losses caused by unexpected risks.”
+
+---
+
+## 02 Risk Management Process
+
+The risk management process follows a structured approach consisting of five key stages:
+
+| Stage | Description |
+|-------|-------------|
+| **Risk Identification** | Identify and document all possible risks. |
+| **Qualitative Risk Analysis** | Prioritize risks based on probability and impact. |
+| **Quantitative Risk Analysis** | Numerically analyze the overall effect of prioritized risks on project objectives like cost and schedule. |
+| **Risk Response Planning** | Develop strategies to handle identified risks. |
+| **Risk Control** | Monitor, track, and manage risks throughout the project lifecycle. |
+
+These stages form a continuous cycle that supports proactive and adaptive risk handling.
+
+---
+
+### A) Risk Identification
+
+**Objective**: Recognize and document all possible risks that could affect the project.
+
+#### Key Methods:
+| Method | Description |
+|--------|-------------|
+| **Documentation Review** | Analyze existing plans, contracts, assumptions, and past project files. |
+| **Information Gathering Techniques** | Use brainstorming, interviews, root cause analysis, Delphi technique, etc. |
+| **Checklist Analysis** | Apply checklists derived from previous projects or knowledge bases. The lowest level of RBS (Risk Breakdown Structure) can serve as a checklist. |
+| **Assumption Analysis** | Examine validity of assumptions; identify those that are unstable, inaccurate, or inconsistent. |
+| **Diagramming Techniques** | Use Cause-and-effect diagrams, system flow diagrams, interrelationship diagrams, etc., to visualize risks. |
+| **SWOT Analysis** | Analyze internal strengths/weaknesses and external opportunities/threats to expand risk scope. |
+| **Expert Judgment** | Involve experienced personnel to directly identify risks. |
+
+#### Output: **Risk Register**
+- Includes:
+  - Risk ID
+  - Description
+  - Probability
+  - Impact
+  - Exposure
+  - Priority
+  - Assigned Owner
+  - Initial Countermeasures
+
+This register becomes the foundation for further qualitative and quantitative analysis.
+
+---
+
+### B) Risk Analysis – Qualitative Risk Analysis
+
+**Objective**: Prioritize risks based on their **probability of occurrence** and **impact on project objectives**.
+
+#### Common Tools:
+- **Probability-Impact Matrix** – Classifies risks into low, medium, or high based on these two factors.
+- Helps determine which risks require deeper analysis or immediate attention.
+
+| Risk Level | Action Required |
+|------------|------------------|
+| High        | Immediate mitigation planning |
+| Medium      | Regular monitoring |
+| Low         | Periodic review |
+
+#### Key Considerations:
+- Focus on **known risks** that can be anticipated.
+- Risks with high impact and high probability receive the highest priority.
+- Supports early **contingency planning** and resource allocation.
+
+This stage ensures that effort and resources are focused on the most critical risks first.
+
+---
+
+### C) Risk Analysis – Quantitative Risk Analysis
+
+**Objective**: Provide **numerical estimates** of how prioritized risks will affect project objectives (cost, schedule).
+
+#### Techniques Used:
+| Technique | Description |
+|----------|-------------|
+| **Interviewing** | Engage experts or stakeholders to estimate risk impacts using historical data and experience. |
+| **Probability Distributions** | Used in simulations to model uncertainty (e.g., normal distribution, triangular distribution). |
+| **Tornado Diagrams** | Visualize the most impactful risks on project objectives. |
+| **Scenario Analysis** | Explore different risk scenarios and their combined effects. |
+| **Monte Carlo Simulation** | Simulate multiple outcomes based on probabilistic inputs to forecast likely results. |
+| **EMV (Expected Monetary Value) Analysis** | Calculates expected value of each risk (Probability × Impact), helping prioritize responses. |
+
+#### Application:
+- Often used in complex projects where precise estimation of cost and schedule deviations is crucial.
+- Builds upon the qualitative analysis to provide **actionable insights**.
+
+Quantitative analysis enables data-driven decisions and better forecasting of risk outcomes.
+
+---
+
+### D) Risk Response
+
+After analyzing risks, appropriate **response strategies** must be developed and executed.
+
+#### A. **Negative Risk Response Strategies**
+
+Used when risks may negatively impact project objectives.
+
+| Strategy | Description |
+|----------|-------------|
+| **Avoid** | Eliminate the threat by changing plans or scope. |
+| **Transfer** | Shift the risk to a third party (e.g., insurance, performance bonds, warranties). |
+| **Mitigate** | Reduce the likelihood or impact of the risk through preventive actions (e.g., testing, process simplification). |
+| **Acceptance** | No action taken; only documented and monitored. <br> - **Passive Acceptance**: No contingency plan, just recorded. <br> - **Active Acceptance**: Establish contingency reserves (time, money, resources) for future use. |
+
+#### B. **Positive Risk Response Strategies**
+
+Used when risks present favorable opportunities.
+
+| Strategy | Description |
+|----------|-------------|
+| **Exploit** | Ensure the opportunity happens by taking direct action. |
+| **Share** | Collaborate with others to capitalize on the opportunity. |
+| **Enhance** | Increase the likelihood or positive impact of the opportunity. |
+| **Acceptance** | Acknowledge the opportunity without actively pursuing it. |
+
+Each strategy should be tailored to the nature of the risk and aligned with project goals and stakeholder expectations.
+
+---
+
+### E) Risk Control
+
+**Objective**: Implement and monitor the **risk response plan**, track identified risks, and ensure ongoing effectiveness of risk management activities.
+
+#### Key Activities:
+| Activity | Description |
+|----------|-------------|
+| **Risk Reassessment** | Conducted regularly to identify new risks and reassess current ones; outdated risks are terminated. |
+| **Risk Audits** | Independent reviews to evaluate the effectiveness of risk management processes and countermeasures. |
+| **Variance and Trend Analysis** | Compares planned vs. actual outcomes to detect emerging risks or deviation patterns. |
+| **Technical Performance Measurement** | Compare technical indicators against baseline metrics to identify risk triggers. |
+| **Status Meetings** | Integrate risk management into regular project meetings to ensure continuous oversight. |
+
+#### Monitoring and Controlling Risks:
+- Evaluate whether the implemented response plans are effective.
+- Track residual risks and identify new risks.
+- Update the risk register with findings and adjust control strategies as needed.
+
+Risk control ensures that the risk management process remains **dynamic, responsive, and integrated** into daily operations.
+
+---
+
+## Additional Information
+
+### Types of Risks
+
+| Type | Description | Management Approach |
+|------|-------------|---------------------|
+| **Contingency Risk** | Known risks that can be identified in advance | Allocate **contingency reserves** per work package (~10% of total budget) |
+| **Reserve Allocation Risk** | Unknown risks that cannot be predicted | Managed separately via **management reserve**, controlled outside the project team |
+
+Reserves help buffer against uncertainties and are critical for maintaining project stability.
+
+---
+
+### Risk Response Plan Components
+
+A complete risk response plan includes:
+- Risk identification and classification
+- Qualitative and quantitative analysis results
+- Selected response strategy
+- Assigned owner and responsibilities
+- Contingency plans and trigger conditions
+- Budget, time, and resource allocations
+
+This ensures that every risk has a clear path for resolution or exploitation.
+
+---
+
+### Integration with Project Management
+
+Risk management is not a standalone activity but part of broader project governance:
+- Must align with **project planning**, execution, and closure phases.
+- Should be embedded in **change management**, **quality assurance**, and **stakeholder communication**.
+- Supports **decision-making** through **early warning systems**, scenario modeling, and performance tracking.
+
+---
+
+## Conclusion
+
+Effective **risk management** is essential for the success of any project, especially in today’s volatile and complex IT business environment.
+
+Key takeaways:
+- Understand the difference between **positive and negative risks** and apply appropriate strategies.
+- Follow the **five-stage risk management process**: identification, qualitative analysis, quantitative analysis, response planning, and control.
+- Use a variety of techniques—checklist analysis, SWOT, EMV, Monte Carlo simulation—to enhance accuracy.
+- Employ **contingency reserves** and **management reserves** to protect against known and unknown risks.
+- Implement **structured risk response strategies**:
+  - For negative risks: **Avoid, Transfer, Mitigate, Accept**
+  - For positive risks: **Exploit, Share, Enhance, Accept**
+
+By embedding risk management into the core of project execution, organizations can enhance predictability, reduce surprises, and make informed decisions that lead to improved outcomes and long-term resilience.
