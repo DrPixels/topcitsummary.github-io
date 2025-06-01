@@ -1,7 +1,8 @@
 [Chapter I: Business Communication: Concepts, Elements, and Method](#summary-of-chapter-I-business-communication-concepts-elements-and-method)  
 [Chapter II: Business Problem Solving Techniques](#summary-of-chapter-II-business-problem-solving-techniques)  
 [Chapter III: Business Document Writing Techniques](#summary-of-chapter-III-business-document-writing-techniques)  
-[Chapter IV: How to Write Technical Documents](#summary-of-chapter-IV-how-to-write-technical-documents)
+[Chapter IV: How to Write Technical Documents](#summary-of-chapter-IV-how-to-write-technical-documents)  
+[Chapter VI: Presentation: Recent Trends and Major Issues](#summary-of-chapter-VI-presentation-recent-trends-and-major-issues)
 
 # Summary of Chapter I: Business Communication: Concepts, Elements, and Methods
 
@@ -875,3 +876,301 @@ Key takeaways:
 - Review documents using **checklists** to ensure completeness and correctness.
 
 By applying these principles, professionals can produce **high-quality technical documents** that support decision-making, compliance, and long-term system sustainability.
+
+---
+# Summary of Chapter VI: Presentation: Recent Trends and Major Issues
+
+---
+
+## 01 Presentation Design and Preparation Process
+
+### A) Purpose of Presentation
+
+The primary purposes of a presentation include:
+
+| Purpose | Description |
+|--------|-------------|
+| **To Inform** | Share facts, data, or detailed information. |
+| **To Persuade** | Influence the audience's opinion or decision-making. |
+| **To Provoke Action** | Encourage specific actions or decisions based on presented evidence. |
+
+Presentations are critical in:
+- Securing investment
+- Winning development projects
+- Driving internal decision-making
+- Closing business deals
+
+A successful presentation must not only deliver information but also **induce changes in the audience’s consciousness or behavior**.
+
+---
+
+### B) Presentation Process
+
+The presentation process is structured into several key stages:
+
+| Stage | Description |
+|------|-------------|
+| **Goal/Topic Setting** | Define one clear sentence for the topic or objective. |
+| **3P Analysis** | Analyze **Person (audience)**, **Purpose**, and **Place (environment)** to tailor the content effectively. |
+| **Content Composition/Design** | Develop narrative-style content that supports your message. Use trimming techniques to create compelling arguments. |
+| **Data Collection/Analysis** | Gather relevant data to support your core message. |
+| **Delivery Format Selection** | Choose appropriate formats and visuals based on audience needs and environment. |
+| **Rehearsal** | Practice with confidence-building simulations and rehearsals. |
+| **On-site Execution** | Deliver the presentation with body language, voice modulation, and engagement. |
+| **Post-processing (Q&A, Feedback)** | Prepare for questions and collect feedback for improvement. |
+
+This structured approach ensures clarity, alignment with audience expectations, and persuasive delivery.
+
+---
+
+### C) Scenario Creation
+
+Scenario creation is essential for effective presentation preparation, especially for managing time, transitions, and storytelling flow.
+
+#### Key Considerations:
+- **Derive key points from materials** and structure them according to audience, purpose, and place.
+- Ensure **storyline flow** and clearly identified keywords within time constraints.
+- **Time Management**: Typically, one A4 page of scenario equals about 3 minutes of speaking time.
+- Avoid going over the allotted time; structure the scenario to allow room for Q&A at the end.
+
+Scenarios help presenters stay composed and focused during delivery by mapping out what will be said and when.
+
+---
+
+## 02 Writing Techniques of Presentation Material
+
+### A) Overall Material Composition
+
+Effective presentation material follows a logical sequence:
+1. **Opening**
+2. **Table of Contents**
+3. **Main Text**
+4. **Closing**
+
+#### Opening:
+- First impressions matter — success or failure is often decided within the first 30 seconds.
+- Build trust and positive rapport quickly.
+
+#### Table of Contents:
+- Structure should reflect the length and complexity of the session.
+  - For short presentations (<30 mins): Two-tiered structure
+  - For longer sessions (>1 hr): Three-tiered structure
+
+#### Main Text:
+Three common structures:
+| Type | Strengths | Weaknesses |
+|------|-----------|------------|
+| **Requested Order Type** | Comprehensive coverage of all topics | May fail to highlight key messages |
+| **Key Issue Type** | Logical flow, strategic focus | May omit non-core but necessary details |
+| **Presentation Evaluation Form Type** | Aligns with evaluator interests | May feel unnatural if forced |
+
+#### Closing:
+- Summarize key points.
+- Leave a lasting impression using quotes or impactful statements.
+- Avoid introducing new ideas.
+
+---
+
+### B) Presentation Scenario Creation
+
+A scenario is a **detailed script or outline** that maps out what the presenter will say, how they'll transition between slides, and when to emphasize key points.
+
+#### Components of a Good Scenario:
+- Derived from presentation materials
+- Reflects the **flow of logic and messaging**
+- Structured around time limits and audience type
+
+#### Tips:
+- Write scenarios in slide notes or cue cards.
+- Print out the scenario for easy reference during rehearsal and live delivery.
+- Match each section to the corresponding slide or visual aid.
+
+---
+
+### C) Presentation Material Creation
+
+Creating high-quality presentation materials involves several steps:
+
+#### 1. Storyboard
+- One-page summary showing introduction, main body, and conclusion.
+- Includes items and logic flow.
+
+#### 2. Table of Contents (Mockup)
+- Visual layout of each slide's message and supporting content.
+- Helps organize schematic patterns and main points.
+
+#### 3. Drafting
+- Content is written based on mockup.
+- Ensures consistency across slides.
+
+#### 4. Design Application
+- Apply templates, colors, fonts, and layouts.
+- Include cover, table of contents, opening/closing slides.
+
+#### Template Guidelines:
+- Not too flashy or complex.
+- Should include title, heading, body, navigation, CI, and slide numbers.
+
+#### Body Slide Layout Tips:
+- Tailor content to audience
+- Use schematics and simplified expressions
+- Incorporate original images and proper typography
+- Use color psychology to reinforce message
+
+---
+
+### D) Presentation Material Review
+
+Before finalizing, review the presentation materials from an **objective third-party perspective**.
+
+#### Key Review Items:
+| Item | Review Questions |
+|------|------------------|
+| **Differentiation** | Does it stand out from competitors or alternatives? |
+| **Logical Flow** | Is the content logically structured and consistent? |
+| **Emphasis** | Are key points properly highlighted? |
+| **Argument Validity** | Is the logic sound and supported by data? |
+| **Audience Prioritization** | Is the content prioritized according to its importance to the audience? |
+| **Visual Clarity** | Are diagrams and visuals used appropriately? |
+
+A thorough review ensures that the materials are not only visually appealing but also **persuasive and strategically aligned**.
+
+---
+
+### E) Presentation Tools
+
+Commonly used tools include:
+- **PowerPoint**
+- **Keynote**
+- **Prezi**
+
+#### Tool Comparison:
+
+| Tool | Pros | Cons |
+|------|------|------|
+| **PowerPoint** | Most widely used, rich features, good for beginners | Limited creativity compared to others |
+| **Keynote** | Sleek design, smooth animations | Limited cross-platform compatibility |
+| **Prezi** | Dynamic zooming and story-based presentation | Can look similar across users |
+| | Works well online | Requires internet access for full functionality |
+
+Each tool has strengths depending on the use case, but mastering the fundamentals of design and delivery is more important than the tool itself.
+
+---
+
+## 03 Methods of Executing Presentation
+
+### A) Checklist for Inspection Before On-Site Presentation
+
+Before presenting on-site, ensure the following:
+- **Venue Inspection**: Familiarize yourself with the space and simulate movement and gestures.
+- **Material Familiarity**: Know the order and flow of your slides without needing to read them.
+- **Opening Comments**: Prepare engaging remarks to build rapport and reduce tension.
+- **Final Material Check**: Verify formatting across devices and software versions.
+- **Key Points & Examples**: Recheck what you want to emphasize and ensure examples align with content.
+- **Closing Message**: Craft a memorable closing statement or quote.
+
+These checks ensure smooth execution and minimize unexpected issues during delivery.
+
+---
+
+### B) Effective Use of Body Language
+
+According to the **Mehrabian Principle**, **93% of communication is non-verbal**, including tone, gestures, and posture.
+
+#### Key Elements:
+| Element | Best Practices |
+|--------|----------------|
+| **Gestures** | Use open gestures to appear confident and engaged. |
+| **Tone of Voice** | Vary pitch and pace to maintain interest. |
+| **Eye Contact** | Maintain connection with the audience. |
+| **Facial Expressions** | Smile naturally, match expressions with content tone. |
+
+Body language enhances credibility and emotional impact, making presentations more persuasive and memorable.
+
+---
+
+### C) Conduct Scenarios and Rehearsals (Practice)
+
+Practicing with a **scenario** helps manage nerves and improve performance.
+
+#### Steps:
+1. **Write a Detailed Scenario**: Include timing, key messages, and transitions.
+2. **Simulate Audience Interaction**: Practice as if presenting to real people.
+3. **Use Cue Sheets**: Help keep track of key points and transitions during live delivery.
+
+Rehearsal builds familiarity and reduces anxiety, increasing confidence and fluency.
+
+---
+
+### D) Relaxing Tension Before Starting
+
+Managing pre-presentation nerves is crucial for effective delivery.
+
+#### Techniques to Reduce Tension:
+- **Physical Relaxation**: Clench/unclench fists, belly breathing
+- **Venue Visit**: Arrive early to adjust to the environment.
+- **Self-talk**: Encourage yourself ("It's okay to make a mistake")
+- **Colleague Support**: Chatting with peers before starting
+- **Confidence Building**: Repeated rehearsals
+
+Reducing tension improves clarity, engagement, and overall delivery quality.
+
+---
+
+### E) First Greeting
+
+The **first greeting** sets the tone of the entire presentation.
+
+#### Common Mistakes:
+- Poor eye contact
+- Hesitant speech
+- Lack of confidence
+
+#### Tips:
+- Start with a smile and strong eye contact.
+- Introduce yourself clearly and confidently.
+- Begin with a light comment or anecdote to ease into the topic.
+
+A strong start increases audience engagement and builds trust.
+
+---
+
+### F) Responding to the Audience's Reaction
+
+A skilled presenter continuously observes audience reactions and adapts accordingly.
+
+#### Positive Indicators:
+- Nodding
+- Note-taking
+- Active listening
+
+#### Negative Indicators:
+- Distraction
+- Confusion
+- Disengagement
+
+#### Presenter Response Strategies:
+- Adjust tone, speed, and emphasis based on audience cues.
+- Simplify complex parts when confusion arises.
+- Use pauses and ask rhetorical questions to regain attention.
+
+Adaptability is key to maintaining audience engagement and achieving the desired outcome.
+
+---
+
+## Conclusion
+
+A successful presentation combines **strategic preparation**, **effective material creation**, and **strong delivery techniques**.
+
+Key takeaways:
+- Understand and define the **purpose of the presentation** clearly.
+- Follow a **structured preparation process**, including scenario writing and rehearsing.
+- Design materials using proven techniques: storyboard → mockup → draft → design.
+- Use **presentation tools** effectively and review thoroughly before delivery.
+- During execution:
+  - Inspect the venue and rehearse extensively.
+  - Use **body language and voice modulation**.
+  - Manage tension and make a strong first impression.
+  - Adapt dynamically to audience reactions.
+
+By mastering these aspects, professionals can deliver presentations that inform, persuade, and inspire action — ultimately driving business outcomes and stakeholder buy-in.
