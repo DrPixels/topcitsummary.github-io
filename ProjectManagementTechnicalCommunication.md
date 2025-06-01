@@ -5,7 +5,8 @@
 [Chapter VI: Presentation: Recent Trends and Major Issues](#summary-of-chapter-VI-presentation-recent-trends-and-major-issues)  
 [Chapter VII: Understanding of Project: Recent Trends and Major Issues](#summary-of-chapter-VII-understanding-of-project-recent-trends-and-major-issues)  
 [Chapter VIII: Project Process and Management: Recent Trends and Major Issues](#summary-of-chapter-VIII-project-process-and-management-recent-trends-and-major-issues)  
-[Chapter IX: Scope Management: Recent Trends and Major Issues](#summary-of-chapter-IX-scope-management-recent-trends-and-major-issues)
+[Chapter IX: Scope Management: Recent Trends and Major Issues](#summary-of-chapter-IX-scope-management-recent-trends-and-major-issues)  
+[Chapter X: Schedule Management: Recent Trends and Major Issues](#summary-of-chapter-X-schedule-management-recent-trends-and-major-issues)
 
 # Summary of Chapter I: Business Communication: Concepts, Elements, and Methods
 
@@ -1690,3 +1691,208 @@ Key takeaways:
 - Validate and control scope rigorously to avoid scope creep and maintain project stability.
 
 By mastering these concepts, project managers can ensure clarity, reduce risk, and align deliverables with stakeholder expectations.
+
+---
+
+# Summary of Chapter X: Schedule Management: Recent Trends and Major Issues
+
+---
+
+## 01 Concept and Process of Schedule Management
+
+### A) Concept of Schedule Management
+
+**Definition of Schedule**
+- A schedule is a **planned timeline** that displays the start and finish dates of project activities.
+- It can be represented in various formats:
+  - Tables
+  - Graphs
+  - Network diagrams
+  - Gantt charts
+  - Milestone charts
+
+A well-developed schedule helps:
+- Allocate resources effectively
+- Track progress
+- Communicate timelines to stakeholders
+- Manage risks related to delays or bottlenecks
+
+**Purpose of Schedule Management**
+- The goal of schedule management is to complete the project within the agreed-upon timeframe.
+- If the delivery date is already fixed, a top-down approach may be used, but it must still account for realistic activity relationships and resource availability.
+
+Poorly planned schedules often result in:
+- Overlapping tasks
+- Resource conflicts
+- Delays due to unmanaged dependencies
+
+Effective schedule management ensures feasibility by considering:
+- Project scale
+- Resource capacity
+- Activity interdependencies
+- Risk factors and fluctuations
+
+---
+
+### B) Schedule Management Process
+
+The schedule management process consists of several key stages:
+
+| Stage | Description |
+|-------|-------------|
+| **Schedule Management Planning** | Develop a detailed plan that outlines how the project schedule will be managed. This includes rules for measurement, reporting frequency, and tools to be used. |
+| **Activity Definition** | Identify all tasks required to deliver the project scope. Each task should be clear, actionable, and traceable to WBS elements. |
+| **Activity Sequencing** | Determine logical and execution order of activities, including dependencies (Finish-to-Start, Start-to-Start, etc.) |
+| **Activity Resource Estimation** | Estimate the type and quantity of resources (people, equipment, materials) needed for each activity. |
+| **Activity Duration Estimation** | Calculate how long each activity will take using estimation techniques such as:
+  - One-point estimating
+  - Three-point estimating (PERT)
+  - Analogous estimating (based on past projects)
+  - Parametric estimating (statistical models)
+  - Expert judgment
+
+| **Schedule Development** | Create a final schedule using network diagrams, Gantt charts, or scheduling software. Incorporates duration estimates, resource allocation, and constraints. |
+| **Schedule Control** | Monitor actual progress against the baseline schedule. Adjustments are made based on performance data and change requests. |
+
+> Note: In PMBOK 6th Edition, **activity resource estimation** has been moved from schedule management to **resource management**, but it remains critical input for accurate scheduling.
+
+---
+
+## 02 Schedule Management Techniques
+
+### A) Schedule Development Technique – Critical Path Method (CPM)
+
+**Overview**
+- The **Critical Path Method (CPM)** is a network analysis technique used to determine the **minimum possible duration** of a project.
+- Identifies the **critical path** — the sequence of activities with **zero float**, meaning any delay in these activities will delay the entire project.
+
+#### Key Concepts:
+- **Float / Slack**: Amount of time an activity can be delayed without delaying the project.
+  - Total Float = Late Finish (LF) - Early Finish (EF), or Late Start (LS) - Early Start (ES)
+- **Forward Pass**: Calculates early start and finish times.
+- **Backward Pass**: Calculates late start and finish times.
+
+#### Steps in CPM:
+1. Define all activities and their durations.
+2. Establish logical relationships between activities.
+3. Perform forward and backward pass calculations.
+4. Identify the critical path — the longest path through the network with zero float.
+5. Use the critical path to focus effort on high-impact activities.
+
+#### Example:
+In a sample project, if the critical path is A → B → E → F, any delay in these steps directly impacts the overall completion date.
+
+#### Advantages:
+- Highlights the most crucial activities.
+- Helps manage time-sensitive aspects of the project.
+- Provides visibility into potential delays.
+
+#### Disadvantages:
+- Does not account for resource constraints.
+- Assumes unlimited resource availability.
+
+---
+
+### B) Schedule Development Technique – Critical Chain Method (CCM)
+
+**Overview**
+- The **Critical Chain Method (CCM)** builds upon CPM by incorporating **resource constraints** and **buffer management** to improve schedule reliability.
+
+#### Key Features:
+- Adds **buffers** to protect the critical chain from variability and uncertainty.
+- Buffers include:
+  - **Project Buffer**: Placed at the end of the critical chain to absorb delays.
+  - **Feeding Buffers**: Added to non-critical chains feeding into the critical chain.
+
+#### How CCM Differs from CPM:
+| Feature | CPM | CCM |
+|--------|-----|-----|
+| Focus | Task durations and dependencies | Resource constraints and buffers |
+| Buffering | Not included | Built-in buffers for risk mitigation |
+| Resource Allocation | Assumed available | Explicitly considered |
+| Monitoring Basis | Total float | Remaining buffer durations |
+
+#### Example:
+If activity C → D → F is the critical chain, a project buffer is added after F to protect against unexpected delays.
+
+#### Benefits:
+- Reduces schedule overruns caused by multitasking and resource shortages.
+- Enables better control through buffer monitoring.
+- Encourages team focus on protecting buffer durations.
+
+---
+
+### C) Schedule Compression Techniques – Crashing and Fast Tracking
+
+When schedule changes are unavoidable due to shifting requirements or fixed deadlines, **schedule compression techniques** are applied to shorten the project duration without compromising quality.
+
+#### 1. **Crashing**
+- **Definition**: Compresses the schedule by adding **extra resources** to critical path activities.
+- Common crashing actions:
+  - Approving overtime work
+  - Hiring additional staff
+  - Paying for expedited delivery of goods/services
+
+##### Pros:
+- Can reduce time on critical path
+- Effective when cost is less of a concern than time
+
+##### Cons:
+- Increases project cost
+- May introduce new risks (e.g., coordination issues)
+
+#### 2. **Fast Tracking**
+- **Definition**: Overlaps phases or activities that would normally be sequential.
+- Used when parallel execution is feasible and does not create major dependency issues.
+
+##### Pros:
+- Maintains original cost structure
+- Speeds up delivery significantly
+
+##### Cons:
+- Increased risk of rework
+- Higher complexity in coordination and quality control
+
+#### When to Use:
+- **Crashing** when cost flexibility exists and speed is critical.
+- **Fast Tracking** when time is tight and risks can be managed.
+
+Both methods are frequently used in **Agile environments**, where iterative development and retrospectives help adjust plans quickly while maintaining momentum.
+
+---
+
+## Additional Information
+
+### Format of Schedules
+
+| Format | Pros | Cons |
+|--------|------|--------|
+| **Network Schedule** | Shows activity relationships clearly | Complex to read for non-experts |
+| **Gantt Chart** | Visualizes activity durations and progress | Best for mid-level detail; hard to show complex logic |
+| **Milestone Chart** | High-level overview for executives | No details on individual activities |
+| **Bar Chart** | Simple, easy to understand | Limited in showing dependencies |
+
+### Agile Schedule Management
+
+In Agile methodologies:
+- Sprints (short iterations) are used to develop features incrementally.
+- Retrospective reviews are held at the end of each sprint to refine processes.
+- Backlog items are reprioritized based on current progress and stakeholder feedback.
+- Work velocity (rate of completed deliverables per iteration) guides future planning.
+
+This allows for **adaptive scheduling**, where schedules are continuously refined based on real-time progress and changing priorities.
+
+---
+
+## Conclusion
+
+**Schedule management** is a vital component of project success. It involves defining, sequencing, estimating, developing, and controlling project activities to ensure timely delivery.
+
+Key takeaways:
+- Follow the **seven-step schedule management process**: planning, definition, sequencing, resource estimation, duration estimation, development, and control.
+- Use estimation techniques like **three-point estimating**, **analogous estimating**, and **expert judgment** to build realistic timelines.
+- Apply **Critical Path Method (CPM)** to identify the most time-sensitive activities.
+- Enhance realism with **Critical Chain Method (CCM)** by accounting for resource constraints and adding buffers.
+- Employ **compression techniques** like **crashing** (adding resources) and **fast tracking** (overlapping activities) when time pressures arise.
+
+By mastering these concepts and techniques, project managers can deliver projects more predictably, communicate clearly with stakeholders, and adapt to changes efficiently.
