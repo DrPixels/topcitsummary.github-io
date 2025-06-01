@@ -9,7 +9,8 @@
 [Chapter X: Schedule Management: Recent Trends and Major Issues](#summary-of-chapter-X-schedule-management-recent-trends-and-major-issues)  
 [Chapter XI: Cost Management: Recent Trends and Major Issues](#summary-of-chapter-XI-cost-management-recent-trends-and-major-issues)  
 [Chapter XII: Quality Management: Recent Trends and Major Issues](#summary-of-chapter-XII-quality-management-recent-trends-and-major-issues)  
-[Chapter XIII: Risk Management: Recent Trends and Major Issues](#summary-of-chapter-XIII-risk-management-recent-trends-and-major-issues)
+[Chapter XIII: Risk Management: Recent Trends and Major Issues](#summary-of-chapter-XIII-risk-management-recent-trends-and-major-issues)  
+[Chapter XIV: Project Tools and Evaluation: Recent Trends and Major Issues](#summary-of-chapter-XIV-project-tools-and-evaluation-recent-trends-and-major-issues)
 
 # Summary of Chapter I: Business Communication: Concepts, Elements, and Methods
 
@@ -2619,3 +2620,212 @@ Key takeaways:
   - For positive risks: **Exploit, Share, Enhance, Accept**
 
 By embedding risk management into the core of project execution, organizations can enhance predictability, reduce surprises, and make informed decisions that lead to improved outcomes and long-term resilience.
+
+---
+
+# Summary of Chapter XIV: Project Tools and Evaluation: Recent Trends and Major Issues
+
+---
+
+## 01 Understanding of Project Management System
+
+### A) Project Management System (PMS)
+
+**Definition**
+- **PMS (Project Management System)** is a software tool that supports the entire lifecycle of project management from initiation to closure.
+- It helps track progress, manage resources, control costs, and coordinate team activities efficiently.
+
+**Key Functions**:
+- Manages **schedule**, **cost**, **scope**, **risk**, **communication**, and **resource allocation**.
+- Provides transparency in project execution and enables early detection of issues or delays.
+- Integrates with other systems like **RMS (Risk Management System)** and **CMS (Configuration Management System)**.
+
+**Common PMS Tools**:
+| Tool | Description |
+|------|-------------|
+| **Redmine** | Open-source project tracking system; supports issue tracking and Gantt charts. |
+| **Gantt Project** | Focused on scheduling and visualizing timelines. |
+| **OpenProject** | Full-featured open-source solution for large-scale project management. |
+| **Microsoft Project** | Industry standard with advanced scheduling and resource management capabilities. |
+
+These tools allow project managers to automate progress tracking, centralize documentation, and improve collaboration across teams.
+
+---
+
+### B) Risk Management System (RMS)
+
+**Definition**
+- **RMS (Risk Management System)** is a digital platform used to identify, analyze, respond to, and monitor risks throughout the project lifecycle.
+
+**Key Features**:
+- Centralized repository for risk register entries.
+- Supports **risk identification**, **qualitative and quantitative analysis**, and **response planning**.
+- Enables real-time monitoring and alerting when risk thresholds are exceeded.
+
+**Integration with PMS**:
+- RMS often works in tandem with PMS to ensure that all identified risks are tracked alongside schedule and cost performance.
+- Allows for **scenario modeling**, **Monte Carlo simulations**, and **EMV (Expected Monetary Value) calculations**.
+
+**Example Use Case**:
+- When a new risk is identified during development, it is logged into the RMS with probability, impact, owner, and mitigation plan.
+- The system generates alerts if the risk becomes active or exceeds defined tolerance levels.
+
+This ensures that risks are managed proactively rather than reactively.
+
+---
+
+### C) Configuration Management System (CMS)
+
+**Definition**
+- **CMS (Configuration Management System)** is a system that tracks and manages changes to project deliverables, infrastructure, and software components.
+
+**Purpose**:
+- Maintains consistency in project deliverables by managing change through a formal process.
+- Records the current state of each configuration item (CI), including version, status, and interdependencies.
+
+**Key Components**:
+| Component | Description |
+|-----------|-------------|
+| **Change Control Board (CCB)** | Governing body that approves or rejects change requests. |
+| **Baseline Management** | Defines approved versions of documents, code, or systems as reference points. |
+| **Traceability Matrix** | Ensures alignment between requirements, design, and implementation. |
+
+**Benefits**:
+- Prevents unauthorized changes.
+- Enhances **audit readiness** and **compliance** with internal/external standards.
+- Facilitates rollback to previous stable states in case of failure.
+
+CMS is especially critical in IT projects where even small changes can have cascading impacts on system behavior.
+
+---
+
+### D) Advantages of Project Management System
+
+The use of integrated **PMS**, **RMS**, and **CMS** brings several key advantages:
+
+#### 1. **Efficient Resource Allocation**
+- Helps assign tasks based on availability and skill set.
+- Reduces idle time and prevents over-allocation.
+
+#### 2. **Transparency and Accountability**
+- Real-time dashboards provide visibility into project status.
+- Roles and responsibilities are clearly assigned and tracked.
+
+#### 3. **Risk and Issue Control**
+- Early detection of potential problems through automated alerts.
+- Integration with RMS allows for continuous risk evaluation and mitigation.
+
+#### 4. **Schedule and Cost Control**
+- Tracks actual vs planned progress using **Earned Value Management (EVM)**.
+- Identifies deviations and provides forecasting metrics like **EAC**, **ETC**, and **VAC**.
+
+#### 5. **Knowledge Sharing and Reuse**
+- Stores historical data, lessons learned, and best practices.
+- Acts as a **reference model** for future projects, improving organizational maturity.
+
+#### 6. **Support for Decision-Making**
+- Generates reports for stakeholders, sponsors, and steering committees.
+- Enables **data-driven decisions** regarding scope, budget, and timeline adjustments.
+
+By leveraging these systems, organizations can achieve **better predictability**, **higher success rates**, and **continuous improvement** in project delivery.
+
+---
+
+## 02 Concept of Project Monitoring and Evaluation
+
+### A) Concept of Project Monitoring and Evaluation
+
+**Definition**
+- **Project monitoring and evaluation** refers to the systematic process of assessing whether a project is on track in terms of **schedule**, **budget**, and **quality**, and whether it contributes to achieving **business goals**.
+
+**Importance**
+- Traditional criteria (on-time delivery, within-budget execution) are no longer sufficient.
+- Modern evaluation focuses on **strategic contribution**, **competitiveness enhancement**, and **value creation**.
+- Evaluations must be conducted from both **management** and **technical perspectives**:
+  - Management: Scope, schedule, cost, quality, risk, human resources, communication.
+  - Technical: Technology application, solution effectiveness, scalability.
+
+**Evaluation Objectives**:
+- Confirm whether the project delivers expected results.
+- Assess alignment with business strategy.
+- Provide feedback for future project planning and execution.
+
+---
+
+### B) Project Evaluation
+
+**Overview**
+- Project evaluation involves measuring the outcomes of a project against its initial objectives, investment, and stakeholder expectations.
+
+#### Key Evaluation Criteria:
+| Criterion | Description |
+|----------|-------------|
+| **Return on Investment (ROI)** | Financial return relative to investment made. |
+| **Business Strategy Alignment** | Whether the project supports long-term strategic goals. |
+| **Sales Increase / Cost Reduction** | Measurable financial benefits delivered. |
+| **User Satisfaction** | Feedback from end users and stakeholders. |
+| **Competitive Differentiation** | How the project improves market position. |
+| **Process Improvement** | Enhancement of internal processes and efficiency. |
+| **Recycle Potential** | Reusability of deliverables or methodologies in future initiatives. |
+
+#### Types of Project Evaluation:
+| Type | Purpose | Example |
+|------|---------|---------|
+| **Ex-Ante Evaluation** | Conducted before project starts to assess feasibility and value. | Business case review, ROI estimation |
+| **Interim Evaluation** | Mid-project review to determine continuation or modification. | Quarterly reviews, milestone-based assessments |
+| **Ex-Post Evaluation** | Post-completion assessment to measure actual outcomes and learning. | Final report, lessons learned, benefit realization |
+
+These evaluations ensure that projects not only meet technical benchmarks but also deliver meaningful value to the organization.
+
+---
+
+### C) Project Evaluation Stage and Focal Point
+
+Project evaluation occurs at three distinct stages:
+
+#### 1. **Ex-Ante Evaluation (Pre-Implementation)**
+- Focuses on **feasibility**, **investment justification**, and **alignment with business strategy**.
+- Involves techniques like **SWOT**, **gap analysis**, and **4Cs (Cost, Competence, Customer, Competition)**.
+- Helps prioritize multiple projects and allocate budgets effectively.
+
+#### 2. **Interim Evaluation (During Execution)**
+- Performed regularly (quarterly, semiannually, annually) to check ongoing progress.
+- Monitors whether the project remains aligned with changing business needs.
+- Used to decide whether to continue, modify, or terminate a project based on current performance.
+
+#### 3. **Ex-Post Evaluation (After Completion)**
+- Conducted after the project ends to validate whether the intended goals were met.
+- Analyzes:
+  - Achievement of business objectives
+  - Confirmation of effectiveness and investment feasibility
+  - Future improvement plans
+- Often includes **stakeholder interviews**, **system audits**, and **performance benchmarking**.
+
+#### Key Benefits of Multi-stage Evaluation:
+| Benefit | Description |
+|--------|-------------|
+| **Verification of IT Investment Effectiveness** | Confirms that IT investments contribute to business goals. |
+| **Lessons Learned** | Captures knowledge for reuse in future projects. |
+| **Improvement Planning** | Identifies areas for process and system enhancements. |
+| **Enhanced Governance** | Promotes accountability and informed decision-making. |
+
+These evaluations form a **feedback loop** that supports **continuous improvement** and **long-term competitiveness**.
+
+---
+
+## Conclusion
+
+Modern **project management systems** such as **PMS**, **RMS**, and **CMS** play a vital role in ensuring successful project delivery by enabling structured planning, execution, and control.
+
+Key takeaways:
+- **PMS** automates and streamlines project planning, tracking, and reporting.
+- **RMS** enhances proactive risk handling and response planning.
+- **CMS** maintains integrity of deliverables and supports traceability and auditability.
+- Together, these systems help organizations reduce complexity, increase transparency, and improve resource utilization.
+
+Additionally, **project monitoring and evaluation** should not be limited to completion and cost adherence but should focus on:
+- Strategic alignment with business goals
+- Quantitative and qualitative impact analysis
+- Continuous learning and improvement
+
+By integrating these systems and applying multi-stage evaluation methods (**ex-ante**, **interim**, **ex-post**), enterprises can ensure that their project investments yield **measurable returns**, **sustainable improvements**, and **long-term value**.
