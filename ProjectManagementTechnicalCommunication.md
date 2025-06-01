@@ -3,6 +3,7 @@
 [Chapter III: Business Document Writing Techniques](#summary-of-chapter-III-business-document-writing-techniques)  
 [Chapter IV: How to Write Technical Documents](#summary-of-chapter-IV-how-to-write-technical-documents)  
 [Chapter VI: Presentation: Recent Trends and Major Issues](#summary-of-chapter-VI-presentation-recent-trends-and-major-issues)
+[Chapter VII: Understanding of Project: Recent Trends and Major Issues](#summary-of-chapter-VII-understanding-of-project-recent-trends-and-major-issues)
 
 # Summary of Chapter I: Business Communication: Concepts, Elements, and Methods
 
@@ -1174,3 +1175,186 @@ Key takeaways:
   - Adapt dynamically to audience reactions.
 
 By mastering these aspects, professionals can deliver presentations that inform, persuade, and inspire action — ultimately driving business outcomes and stakeholder buy-in.
+
+---
+# Summary of Chapter VII: Understanding of Project: Recent Trends and Major Issues
+
+---
+
+## 01 Concept of Project
+
+### A) Definition of Project
+
+A **project** is a temporary endeavor undertaken to create a unique product, service, or result. Unlike ongoing operations, projects have a defined beginning and end.
+
+Key characteristics:
+- **Temporary**: Has a definite start and finish.
+- **Unique Output**: Produces something new or distinct.
+- **Progressive Elaboration**: Details evolve as the project progresses.
+- **Resource Utilization**: Involves people, budget, time, and technology.
+- **Goal-Oriented**: Aimed at achieving specific objectives within constraints.
+
+Projects are essential in modern business environments where innovation and change are constant. They form the basis for many business activities, especially in software development, system construction, and transformation initiatives.
+
+---
+
+### B) Features of Project
+
+Projects differ from routine work in several ways:
+
+| Feature | Description |
+|--------|-------------|
+| **Originality** | Each project is unique; no two projects are exactly the same. |
+| **Time Limitation** | Projects must be completed within a defined timeframe. |
+| **Uncertainty** | Subject to risks, changes, and external/internal influences. |
+| **Complexity** | Often involves multiple stakeholders, technologies, and processes. |
+| **Cross-functional Nature** | Requires collaboration across departments or organizations. |
+
+These features make project management both challenging and critical to organizational success.
+
+---
+
+### C) Examples of Practical Projects
+
+Examples of real-world projects include:
+- **Software Development Projects**
+- **System Integration Initiatives**
+- **Infrastructure Modernization Programs**
+- **ERP Implementation**
+- **Digital Transformation Efforts**
+
+Each project type has its own challenges, including:
+- Aligning with strategic goals
+- Managing stakeholder expectations
+- Ensuring quality while adhering to schedule and budget
+
+Given the uniqueness and variability of each project, **one-size-fits-all approaches do not apply**, but knowledge systems like **PMBOK**, **PRINCE2**, and certifications such as **PMP** provide standardized guidance and best practices.
+
+---
+
+## 02 Project Organizational Structures and Roles
+
+### A) Project Organizational Structures
+
+Project execution requires well-defined structures that determine authority, communication flows, and decision-making responsibilities. The most common structures include:
+
+#### 1. **Functional Organization**
+- Traditional structure based on departmental functions (e.g., finance, IT, HR).
+- No dedicated project manager; department heads manage their part of the project.
+- Suitable for small-scale, internal projects with minimal cross-departmental dependencies.
+
+#### 2. **Matrix Organization**
+In this structure, team members report to both **functional managers** and **project managers**. It is categorized into:
+
+| Type | Authority Level | Time Commitment | Role |
+|------|------------------|------------------|------|
+| **Weak Matrix** | Minimal | Part-time | Facilitator |
+| **Balanced Matrix** | Medium | Full-time | Coordinator |
+| **Strong Matrix** | High | Full-time | Manager |
+
+This model offers flexibility and resource sharing but can lead to conflicts due to dual reporting lines.
+
+#### 3. **Projectized Organization**
+- The entire organization is structured around projects.
+- Project managers have **full authority** over resources and decisions.
+- Ideal for large-scale, complex projects requiring dedicated focus and autonomy.
+
+<Table 32> Common Project Organizational Structures:
+
+| Structure | Authority | Time Horizon | Key Role |
+|-----------|-----------|--------------|----------|
+| Functional Organization | Close to none | Part-time | Facilitator |
+| Weak Matrix | Minimum | Part-time | Facilitator |
+| Balanced Matrix | Minimum to medium | Full-time | Coordinator |
+| Strong Matrix | Medium to strong | Full-time | Manager |
+| Projectized Organization | Total authority | Full-time | Manager |
+
+#### Hybrid Structures in Practice
+
+In practice, especially in **software development or system implementation**, hybrid structures are often used. These combine elements of matrix and functional models, forming teams that include:
+- **Sponsor (Project Sponsor)**
+- **Steering Committee (Project Council)**
+- **Project Manager (PM)**
+- **Project Leader (PL)**
+- **Developers**
+- **QA and Architect Teams**
+- **Support and PMO (Project Management Office)**
+
+This ensures alignment with strategic goals while maintaining operational efficiency.
+
+---
+
+### B) Responsibilities and Roles of Project Manager
+
+The **project manager (PM)** plays a central role in planning, executing, and closing projects successfully.
+
+#### Core Responsibilities:
+- Define and manage **project scope, schedule, and budget**.
+- Coordinate **stakeholders, vendors, and team members**.
+- Monitor progress and manage **risks and issues**.
+- Ensure **quality standards** are met throughout the lifecycle.
+- Communicate effectively with all levels of the organization.
+
+#### Required Competencies:
+
+| Competency Area | Description |
+|------------------|-------------|
+| **Project Management Knowledge** | Proficiency in PM tools, templates, and methodologies (e.g., PMBOK). |
+| **Technical Competency** | Deep understanding of the domain, including technology trends and tools. |
+| **Communication Skills** | Ability to negotiate, communicate clearly, and manage human resources. |
+
+#### Detailed Areas of Expertise:
+- Scope, schedule, cost, quality, risk, procurement, and stakeholder management.
+- Leadership and motivation skills to guide diverse teams toward shared goals.
+- Experience managing complex, multi-disciplinary efforts.
+
+Project managers must be able to:
+- Understand the **entire lifecycle** of a project.
+- Apply **agile or traditional methodologies** depending on context.
+- Maintain balance between **deliverables, constraints, and stakeholder expectations**.
+
+---
+
+### C) Project Management Office (PMO)
+
+The **Project Management Office (PMO)** is an organizational unit responsible for **centralized coordination of projects**, programs, and portfolios.
+
+#### Functions of PMO:
+- Develop and maintain **standardized project management processes**.
+- Provide **methodologies, tools, and templates**.
+- Support project managers through **training, mentoring, and resource allocation**.
+- Monitor and evaluate **project performance** across the enterprise.
+
+#### Types of PMO Models:
+
+| Model | Description |
+|-------|-------------|
+| **Weather Station Model** | Focuses on monitoring project progress and disseminating PM knowledge without direct involvement. |
+| **Coach Model** | Builds internal capability by promoting methodology use, developing communities, and offering expert support. |
+| **Control Tower Model** | Centralized control over project execution, governance, and compliance. |
+| **Project Production Unit Model** | Takes full responsibility for project delivery, acting as an internal consulting body. |
+
+#### Composition of PMO
+
+The PMO typically consists of:
+- **Project Managers** with expertise in various domains.
+- **Consultants** and **evaluators** who assess project health and strategy.
+- **Database Experts**, **Quality Managers**, and **Methodology Specialists**.
+
+Depending on the company’s needs, the PMO may function as a **supportive hub**, a **governance body**, or a **delivery center**.
+
+---
+
+## Conclusion
+
+Understanding the **concept of a project**, its **organizational implications**, and the **roles involved** is essential for successful execution in today’s dynamic business environment.
+
+Key takeaways:
+- A **project** is a **temporary, goal-oriented initiative** producing unique deliverables.
+- Its defining features—**originality, time-bound nature, complexity, and uncertainty**—require careful management.
+- Choosing the right **organizational structure** (functional, matrix, projectized) affects project dynamics and outcomes.
+- The **project manager** must possess a balanced mix of technical, managerial, and interpersonal skills.
+- The **PMO** serves as a strategic asset, ensuring consistency, governance, and knowledge transfer across projects.
+
+By aligning these elements, organizations can better navigate the complexities of project execution and achieve desired results efficiently and effectively.
+
